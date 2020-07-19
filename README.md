@@ -1,4 +1,4 @@
-[![Nityan Suman](https://github.com/nityansuman/nityansuman/blob/master/home-portfolio.png)](https://github.com/nityansuman)
+[![Nityan Suman](https://github.com/nityansuman/nityansuman/blob/master/home-portfolio.png)](https://nityansuman.github.io/)
 
 ### Hi there 👋
 
