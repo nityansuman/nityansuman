@@ -1,16 +1,14 @@
+[![Nityan Suman](https://github.com/nityansuman/nityansuman/blob/master/home-portfolio.png)](https://github.com/nityansuman)
+
 ### Hi there 👋
 
-<!--
-**nityansuman/nityansuman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Nityan. I build lots of artificial intelligence based solutions for the toughest problems in the world.
 
-Here are some ideas to get you started:
+⚡ I work at [Noodle.ai](https://www.noodle.ai) as a ✨ Data Scientist.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning concepts behind `Reinforcement Learning`.
+
+🔭 Currently working on lot of things from NLP, Computer Vision to Time Series Forecasting.
+
+
+For more information about me (and a whole lot of shenanigans), check out [nityansuman.github.io](https://github.com/nityansuman) ande connect with me on [LinkedIn](https://www.linkedin.com/in/kumar-nityan-suman/)
