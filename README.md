@@ -1,7 +1,7 @@
 [![Nityan Suman](https://github.com/nityansuman/nityansuman/blob/master/home-portfolio.png)](https://nityansuman.github.io/)
 
 
-## Hi there :wave:
+# Hi there :wave:
 
 I’m **Nityan**. I build lots of artificial intelligence based solutions for the toughest problems in the world.
 
