@@ -9,7 +9,7 @@ I work at ⚡ [Noodle.ai](https://www.noodle.ai) as a :star2: `Data Scientist`.
 
 I’m currently learning concepts behind :shamrock: `Reinforcement Learning`.
 
-Currently working on lot of things from :telescope: Natural Language Processing, Computer Vision to Time Series Forecasting.
+Currently working on lot of things from :telescope: `Natural Language Processing`, `Computer Vision` to `Time Series Forecasting`.
 
 Look out :nerd_face: for lot of new content coming your way - [Data Structures, Algorithms with Python], [Machine Learning Algorithms and Pipelines].
 
