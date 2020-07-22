@@ -9,8 +9,8 @@ I work at ⚡ [Noodle.ai](https://www.noodle.ai) as a :star2: `Data Scientist`.
 
 I’m currently learning concepts behind :shamrock: `Reinforcement Learning`.
 
-Currently working on lot of things from :telescope: `Natural Language Processing`, `Computer Vision` to `Time Series Forecasting`.
+Currently working on a lot of things from :telescope: `Natural Language Processing`, `Computer Vision` to `Time Series Forecasting`.
 
-Look out :nerd_face: for lot of new content coming your way - [Data Structures, Algorithms with Python], [Machine Learning Algorithms and Pipelines].
+Look out :nerd_face: for new content coming your way - [Data Structures, Algorithms with Python], [Machine Learning Algorithms and Pipelines].
 
 For more information about me (and a whole lot of shenanigans), check out :medal_sports: [Portfolio](https://github.com/nityansuman) and connect with me on [LinkedIn](https://www.linkedin.com/in/kumar-nityan-suman/) :footprints:
