@@ -2,14 +2,8 @@
 
 # Hi there :wave: :computer:
 
-I’m **Nityan**. I build lots of artificial intelligence based solutions for the toughest problems in the world.
-
-I work at ⚡ [Noodle.ai](https://www.noodle.ai) as a :star2: `Data Scientist`.
-
-I’m currently learning concepts behind :shamrock: `Reinforcement Learning`.
-
-Currently working on a lot of things from :telescope: `Natural Language Processing`, `Computer Vision` to `Time Series Forecasting`.
-
+I’m **Nityan**. I build artificial intelligence based solutions for the toughest problems in the world.
+I'm a data scientist by nature and profession who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include Python and Tensorflow. I work at ⚡ [Noodle.ai](https://www.noodle.ai). Currently working on a lot of things from :telescope: `Natural Language Processing`, `Computer Vision` to `Time Series Forecasting`.
 
 ## Find me around :earth_asia:
 
