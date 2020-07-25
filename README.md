@@ -1,5 +1,4 @@
-[![Nityan Suman Portfolio](home-portfolio.png)](https://nityansuman.github.io/)
-
+<img src="https://raw.githubusercontent.com/nityansuman/nityansuman/master/home-porfolio.png" alt="Nityan Suman - Data Scientist">
 
 # Hi there :wave: :computer:
 
