@@ -16,3 +16,6 @@ I am currently working at ⚡ [Noodle.ai](https://www.noodle.ai). I expertise in
 ## Find me around :earth_asia:
 
 - Sharing updates on <a href="https://www.linkedin.com/in/kumar-nityan-suman/">LinkedIn</a> 💼
+
+
+![image](https://raw.githubusercontent.com/nityansuman/nityansuman/master/dino.gif)
