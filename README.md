@@ -1,7 +1,7 @@
-[![Nityan Suman](https://github.com/nityansuman/nityansuman/blob/master/home-portfolio.png)](https://nityansuman.github.io/)
+[![Nityan Suman Portfolio](home-portfolio.png)](https://nityansuman.github.io/)
 
 
-# Hi there :wave:
+# Hi there :wave: :computer:
 
 I’m **Nityan**. I build lots of artificial intelligence based solutions for the toughest problems in the world.
 
@@ -11,6 +11,7 @@ I’m currently learning concepts behind :shamrock: `Reinforcement Learning`.
 
 Currently working on a lot of things from :telescope: `Natural Language Processing`, `Computer Vision` to `Time Series Forecasting`.
 
-Look out :nerd_face: for new content coming your way - [Data Structures, Algorithms with Python], [Machine Learning Algorithms and Pipelines].
 
-For more information about me (and a whole lot of shenanigans), check out :medal_sports: [Portfolio](https://github.com/nityansuman) and connect with me on [LinkedIn](https://www.linkedin.com/in/kumar-nityan-suman/) :footprints:
+## Find me around :earth_asia:
+
+- Sharing updates on <a href="https://www.linkedin.com/in/kumar-nityan-suman/">LinkedIn</a> 💼
