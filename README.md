@@ -1,11 +1,12 @@
+
+# Hi there :wave: :computer:
+
 <img src="https://raw.githubusercontent.com/nityansuman/nityansuman/master/home-portfolio.png" alt="Nityan Suman - Data Scientist">
 
 <p align="center"> 
   Counter<br>
   <img src="https://profile-counter.glitch.me/nityansuman/count.svg" />
 </p>
-
-# Hi there :wave: :computer:
 
 I’m **Nityan**. I build artificial intelligence based solutions for the toughest problems in the world.
 I'm a data scientist by nature and profession who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include Python and Tensorflow.
