@@ -50,7 +50,6 @@ For more information about me (and a whole lot of shenanigans), connect with me 
 <br />
 
 ## Github Repository Stats
-
 <img align="left" alt="nityansuman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nityansuman&count_private=true&show_icons=true&hide=issues&hide_border=true&hide_title=true" />
 
 ![image](https://raw.githubusercontent.com/nityansuman/nityansuman/master/dino.gif)
