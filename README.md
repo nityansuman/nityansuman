@@ -10,7 +10,7 @@
 
 - I’m **Nityan**. I build artificial intelligence based solutions for the toughest problems in the world.
 - I'm passionate about making open-source more accessible, creating technology to elevate people, and building community.
-- I am currently working at ⚡ [Noodle.ai](https://www.noodle.ai) as a Data Scientist.
+- I am currently working at [Noodle.ai](https://www.noodle.ai) as a Data Scientist.
 - I expertise in :telescope: `Natural Language Processing`, `Computer Vision` to `Time Series Forecasting`. Look out this space for more upcoming contents.
 - ⚡ Fun fact: I love to draw and play chess.
 
