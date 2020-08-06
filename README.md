@@ -1,6 +1,4 @@
-
-# Hi there :wave: :computer:
-![Profile Views](https://gpvc.arturio.dev/nityansuman)<a href="https://github.com/nityansuman/nityansuman/actions">
+# Hi there :wave: :computer: ![Profile Views](https://gpvc.arturio.dev/nityansuman)
 
 <img src="https://raw.githubusercontent.com/nityansuman/nityansuman/master/home-portfolio.png" alt="Nityan Suman - Data Scientist" longdesc="https://nityansuman.github.io/">
 
