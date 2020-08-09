@@ -2,10 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/nityansuman/nityansuman/master/images/homepage-3.png" alt="Nityan Suman - Data Scientist" longdesc="https://nityansuman.github.io/">
 
-- I’m **Nityan**. I build artificial intelligence based solutions for the toughest problems in the world.
+- I’m **Nityan**. I develop artificial intelligence based solutions for the toughest problems in the world.
 - I'm passionate about making open-source more accessible, creating technology to elevate people, and building community.
-- I am currently working at [Noodle.ai](https://www.noodle.ai) as a Data Scientist in Time Series domain.
-- I expertise in `Natural Language Processing`, `Computer Vision` to `Time Series Forecasting`. Look out this space for more upcoming contents.
 - ⚡ Fun fact: I love to draw and play chess.
 
 For more information about me (and a whole lot of shenanigans), connect with me on [LinkedIn](https://www.linkedin.com/in/kumar-nityan-suman/) :earth_asia:
