@@ -12,7 +12,7 @@ Something more about me ...
 - A good cook, enthusiastic badminton player, like to draw random stuff and a chess beginner.
 - I'm passionate about making open-source more accessible, creating technology to elevate people, and building community.
 
-For more information about me (and a whole lot of shenanigans), connect with me on [LinkedIn](https://www.linkedin.com/in/kumar-nityan-suman/) :earth_asia:
+For a whole lot of shenanigans, connect with me on [LinkedIn](https://www.linkedin.com/in/kumar-nityan-suman/) :earth_asia:
 
 ## Core Languages and Frameworks
 
