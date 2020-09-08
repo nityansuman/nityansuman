@@ -40,11 +40,3 @@ For a whole lot of shenanigans, connect with me on [LinkedIn](https://www.linked
 <img align="left" alt="Jupyter Notebook" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
 <img align="left" alt="Vim" width="52px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
 <img align="left" alt="GitHub" width="52px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<br />
-<br />
-<br />
-
-
-## Github Repository Stats
-<img align="left" alt="nityansuman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nityansuman&count_private=true&show_icons=true&hide=issues&hide_border=true&hide_title=true" />
