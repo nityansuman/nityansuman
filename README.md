@@ -2,9 +2,15 @@
 
 <img src="https://raw.githubusercontent.com/nityansuman/nityansuman/master/images/homepage-3.png" alt="Nityan Suman - Data Scientist" longdesc="https://nityansuman.github.io/">
 
-- I’m **Nityan**. I develop artificial intelligence based solutions for the toughest problems in the world.
+- I’m **Nityan**. I develop artificial intelligence based softwares.
+- I'm primarily focused on Natural Language Processing, Time Series and Predictive Analytics domain with exposure to Computer Vision.
+- My goal is to develop modular, reusable and scalable machine learning components that can be applied across domains to solve world's greatest and toughest problems.
+- Always eager to learn and a very strong believer of continuous learning. Currently trying my hands out with the new kid in town - Reinforcement Learning and how I can use it to better the current modelling strategy.
+- An open-source contributor who maintains couple of decent Python projects.
+
+Something more about me ...
+- A good cook, enthusiastic badminton player, like to draw random stuff and a chess beginner.
 - I'm passionate about making open-source more accessible, creating technology to elevate people, and building community.
-- ⚡ Fun fact: I love to draw and play chess.
 
 For more information about me (and a whole lot of shenanigans), connect with me on [LinkedIn](https://www.linkedin.com/in/kumar-nityan-suman/) :earth_asia:
 
