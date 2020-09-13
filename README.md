@@ -5,7 +5,7 @@
 - I develop artificial intelligence based softwares.
 - I'm primarily focused on Natural Language Processing, Time Series and Predictive Analytics domain with exposure to Computer Vision.
 - My goal is to develop modular, reusable and scalable machine learning components that can be applied across domains to solve world's greatest and toughest problems.
-- Always eager to learn and a very strong believer of continuous learning. Currently trying my hands out with the new kid in town - Reinforcement Learning and how I can use it to better the current modelling strategy.
+- Always eager to learn and a very strong believer of continuous learning. Currently trying my hands on with the newest kid in town - Reinforcement Learning and how I can use it to better the current modelling strategy.
 - An open-source contributor who maintains couple of decent Python projects.
 
 Something more about me ...
