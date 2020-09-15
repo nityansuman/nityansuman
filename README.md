@@ -9,8 +9,8 @@
 - 📫 How to reach me **nityan.suman@gmail.com**
 
 Something more about me ...
-- Always eager to learn. Currently trying my hands on with the newest kid in town - Reinforcement Learning and how I can use it to better the current modelling strategy.
-- A good cook, enthusiastic badminton player, like to draw random stuff and a chess beginner.
+- :books: Always eager to learn. Currently trying my hands on with the newest kid in town - Reinforcement Learning and how I can use it to better the current modelling strategy.
+- A good :man_cook: cook, enthusiastic badminton :badminton: player, like to draw random stuff and a chess :chess_pawn: beginner.
 - I'm passionate about making open-source more accessible, creating technology to elevate people, and building community.
 
 <!-- <img src="https://raw.githubusercontent.com/nityansuman/nityansuman/master/images/homepage-3.png" alt="Nityan Suman - Data Scientist" longdesc="https://nityansuman.github.io/"> -->
