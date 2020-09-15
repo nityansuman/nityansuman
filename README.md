@@ -19,7 +19,6 @@ For a whole lot of shenanigans, connect with me on [LinkedIn](https://www.linked
 
 ## Stack
 
-<p align="left">
 <img align="left" alt="Python 3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Tensorflow" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
 <img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
@@ -36,9 +35,6 @@ For a whole lot of shenanigans, connect with me on [LinkedIn](https://www.linked
 <img align="left" alt="Jupyter Notebook" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
 <img align="left" alt="Vim" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
 <img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-</p>
 
-<br>
-<br>
 
 <p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nityansuman&layout=compact&hide=html" alt="nityansuman" /></p>
