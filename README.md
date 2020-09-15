@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Scientist living in Bengaluru, India.</h3>
 
 
-- 🔭 I’m currently working on **Modular and Scalable AI**
+- 🔭 I’m currently working on **Scalable Time Series AI**
 
 - 💬 Ask me about **Machine Learning - Neural Networks - Natural Language Processing**
 
