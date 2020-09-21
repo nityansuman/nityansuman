@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nityan Suman</h1>
 <h3 align="center">A passionate Data Scientist living in Bengaluru, India.</h3>
 
+<p align="center"><img src="https://github.githubassets.com/images/modules/notifications/inbox-zero.svg" alt="Nityan Suman - Data Scientist"/></p>
+
 
 - 🔭 I’m currently working on **Scalable Time Series AI**
 
@@ -12,8 +14,6 @@ Something more about me ...
 - :books: Always eager to learn. Currently trying my hands on Graph Neural Networks.
 - A good :man_cook: cook, an enthusiastic badminton :badminton: player, like to draw :art: random stuff and a chess :chess_pawn: beginner.
 - I'm passionate about making open-source more accessible, creating technology to elevate people, and building community.
-
-<!-- <img src="https://raw.githubusercontent.com/nityansuman/nityansuman/master/images/homepage-3.png" alt="Nityan Suman - Data Scientist" longdesc="https://nityansuman.github.io/"> -->
 
 For a whole lot of shenanigans, connect with me on [LinkedIn](https://www.linkedin.com/in/kumar-nityan-suman/) :earth_asia:
 
