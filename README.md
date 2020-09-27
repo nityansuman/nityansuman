@@ -12,7 +12,7 @@
 
 Something more about me ...
 - :books: Always eager to learn. Currently trying my hands on Graph Neural Networks.
-- A good :man_cook: cook, an enthusiastic badminton :badminton: player, like to draw :art: random stuff and a chess :chess_pawn: beginner.
+- A good :man_cook: cook, an enthusiastic badminton :badminton: player, like to draw :art: random stuff and a chess :chess_pawn: enthusiast.
 - I'm passionate about making open-source more accessible, creating technology to elevate people, and building community.
 
 For a whole lot of shenanigans, connect with me on [LinkedIn](https://www.linkedin.com/in/kumar-nityan-suman/) :earth_asia:
