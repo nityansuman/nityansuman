@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Scalable Time Series AI**
 
-- 💬 Ask me about **Machine Learning - Neural Networks - Natural Language Processing**
+- 💬 Ask me about **Natural Language Processing + Time Series Forecasting + Computer Vision**
 
 - 📫 How to reach me **nityan.suman@gmail.com**
 
