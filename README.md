@@ -11,7 +11,7 @@
 - 📫 How to reach me **nityan.suman@gmail.com**
 
 Something more about me ...
-- :books: Always eager to learn. Currently trying my hands on Graph Neural Networks.
+- :books: Always eager to learn. Currently trying my hands on Reinforcement Learning.
 - A good :man_cook: cook, an enthusiastic badminton :badminton: player, like to draw :art: random stuff and a chess :chess_pawn: enthusiast.
 - I'm passionate about making open-source more accessible, creating technology to elevate people, and building community.
 
