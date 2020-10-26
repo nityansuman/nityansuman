@@ -3,21 +3,20 @@
 
 <p align="center"><img src="https://github.githubassets.com/images/modules/notifications/inbox-zero.svg" alt="Nityan Suman - Data Scientist"/></p>
 
+- :computer: I’m currently working on **Scalable Time Series AI**
 
-- 🔭 I’m currently working on **Scalable Time Series AI**
+- :speech_balloon: Ask me about **Natural Language Processing + Time Series Forecasting + Computer Vision**
 
-- 💬 Ask me about **Natural Language Processing + Time Series Forecasting + Computer Vision**
+- :mailbox_with_mail: How to reach me **nityan.suman@gmail.com**
 
-- 📫 How to reach me **nityan.suman@gmail.com**
+- :earth_asia: For a whole lot of shenanigans, connect with me on [**LinkedIn**](https://www.linkedin.com/in/kumar-nityan-suman/)
 
 Something more about me ...
 - :books: Always eager to learn. Currently trying my hands on Reinforcement Learning.
 - A good :man_cook: cook, an enthusiastic badminton :badminton: player, like to draw :art: random stuff and a chess :chess_pawn: enthusiast.
 - I'm passionate about making open-source more accessible, creating technology to elevate people, and building community.
 
-For a whole lot of shenanigans, connect with me on [LinkedIn](https://www.linkedin.com/in/kumar-nityan-suman/) :earth_asia:
-
-## Tech Stack
+## Tech Stack :toolbox:
 
 <img align="left" alt="Python 3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Tensorflow" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
