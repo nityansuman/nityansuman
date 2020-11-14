@@ -12,9 +12,9 @@
 - :earth_asia: For a whole lot of shenanigans, connect with me on [**LinkedIn**](https://www.linkedin.com/in/kumar-nityan-suman/)
 
 Something more about me ...
-- :books: Always eager to learn. Currently trying my hands on Reinforcement Learning.
-- A good :man_cook: cook, an enthusiastic badminton :badminton: player, like to draw :art: random stuff and a chess :chess_pawn: enthusiast.
+- :books: Always eager to learn. Getting my hands dirty with **Graph Networks** and **Reinforcement Learning**.
 - I'm passionate about making open-source more accessible, creating technology to elevate people, and building community.
+- A good :man_cook: cook, an enthusiastic badminton :badminton: player, like to draw :art: random stuff and a chess :chess_pawn: enthusiast.
 
 ## Tech Stack :toolbox:
 
