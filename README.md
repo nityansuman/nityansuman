@@ -41,4 +41,4 @@ Something more about me ...
 </br>
 </br>
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nityansuman&layout=compact&hide=html,css,javascript" alt="nityansuman" /></p>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nityansuman&layout=compact&hide=html,css,javascript,scss,less" alt="nityansuman" /></p>
