@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nityan Suman</h1>
-<h3 align="center">Optimzing the world one algorithm at a time.</h3>
+<h3 align="center">Optimizing the world one algorithm at a time.</h3>
 
 <p align="center"><img src="https://github.githubassets.com/images/modules/notifications/inbox-zero.svg" alt="Nityan Suman - Data Scientist"/></p>
 
