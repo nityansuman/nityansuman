@@ -5,7 +5,7 @@
 
 - :computer: I’m currently working on **Scalable Time Series AI**
 
-- :speech_balloon: Ask me about **Sequence Modelling (Natural Language Processing + Time Series Forecasting) & Computer Vision**
+- :speech_balloon: Ask me about **Natural Language Processing, Time Series and Computer Vision**
 
 - :mailbox_with_mail: How to reach me **nityan.suman@gmail.com**
 
