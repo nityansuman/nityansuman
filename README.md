@@ -3,7 +3,7 @@
 
 <p align="center"><img src="https://github.githubassets.com/images/modules/notifications/inbox-zero.svg" alt="Nityan Suman - Data Scientist"/></p>
 
-- :computer: I’m currently working on **Scalable Time Series AI**
+- :computer: I’m currently working on **Supply Chain AI**
 
 - :speech_balloon: Ask me about **Natural Language Processing, Time Series and Computer Vision**
 
