@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm Nityan Suman</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">Optimizing the world one algorithm at a time.</h3>
 
 <p align="center"><img src="https://github.githubassets.com/images/modules/notifications/inbox-zero.svg" alt="Nityan Suman - Data Scientist"/></p>
 
-<img alig src="https://github-profile-trophy.vercel.app/?username=nityansuman&column=6&rank=SSS,SS,S,AAA,AA,A" />
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=nityansuman&column=3&rank=SSS,SS,S,AAA,AA,A" />
+</p>
 
 - :computer: I’m currently working on **Supply Chain AI**
 
