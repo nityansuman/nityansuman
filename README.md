@@ -16,7 +16,7 @@ Something more about me ...
 - I'm passionate about making open-source more accessible, creating technology to elevate people, and building community.
 - A good :man_cook: cook, an enthusiastic badminton :badminton: player, like to draw :art: random stuff and a chess :chess_pawn: enthusiast.
 
-## Tech Stack :toolbox:
+### Languages and Tools:
 
 <img align="left" alt="Python 3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Tensorflow" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
