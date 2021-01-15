@@ -3,6 +3,10 @@
 
 <p align="center"><img src="https://github.githubassets.com/images/modules/notifications/inbox-zero.svg" alt="Nityan Suman - Data Scientist"/></p>
 
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=nityansuman&column=6&rank=SSS,SS,S,AAA,AA,A" />
+</p>
+
 - :computer: I’m currently working on **Supply Chain AI**
 
 - :speech_balloon: Ask me about **Natural Language Processing, Time Series and Computer Vision**
