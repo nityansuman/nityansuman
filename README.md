@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋</h1>
+
 <h3 align="center">Optimizing the world one algorithm at a time.</h3>
 
 <!-- <p align="center"><img src="https://github.githubassets.com/images/modules/notifications/inbox-zero.svg" alt="Nityan Suman - Data Scientist"/></p> -->
-
 <p align="center"><img src="images/alternate-header.png" alt="Nityan Suman - Data Scientist"/></p>
 
 <p align="center">
