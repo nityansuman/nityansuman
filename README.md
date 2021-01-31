@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋</h1>
 <h3 align="center">Optimizing the world one algorithm at a time.</h3>
 
-<p align="center"><img src="https://github.githubassets.com/images/modules/notifications/inbox-zero.svg" alt="Nityan Suman - Data Scientist"/></p>
+<!-- <p align="center"><img src="https://github.githubassets.com/images/modules/notifications/inbox-zero.svg" alt="Nityan Suman - Data Scientist"/></p> -->
+
+<p align="center"><img src="images/alternate-header.png" alt="Nityan Suman - Data Scientist"/></p>
 
 <p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=nityansuman&column=3&rank=SSS,SS,S,AAA,AA,A" />
+  <img align src="https://github-profile-trophy.vercel.app/?username=nityansuman&column=3&rank=SSS,SS,S,AAA,AA,A" />
 </p>
 
 - :computer: I’m currently working on **Supply Chain AI**
@@ -23,7 +25,7 @@ Something more about me ...
 ### Languages and Tools:
 
 <img align="left" alt="Python 3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Tensorflow" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
+<img align="left" alt="TensorFlow" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
 <img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Apache Spark" width="40px" src="https://spark.apache.org/images/spark-logo-trademark.png" />
 
