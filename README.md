@@ -36,9 +36,3 @@ Something more about me ...
 <img align="left" alt="Vim" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Jupyter Notebook" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
-
-<!--
-</br>
-</br>
-</br>
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nityansuman&layout=compact&hide=html,css,javascript,scss,less" alt="nityansuman" /></p> -->
