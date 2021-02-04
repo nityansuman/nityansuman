@@ -133,6 +133,7 @@ alias pull="git pull origin "
 alias cm="git commit -m "
 alias nsmi="nvidia-smi -l 1"
 
-alias condar="conda list -e > /home/nityan/scripts/requirements.txt"
+alias condadump="conda list -e > /home/nityan/nityansuman/requirements.txt"
+alias zshdump="cat .zshrc > /home/nityan/nityansuman/zshrc-dump"
 
 alias hd2="cd /mnt/hd2/"
