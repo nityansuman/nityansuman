@@ -133,7 +133,11 @@ alias pull="git pull origin "
 alias cm="git commit -m "
 alias nsmi="nvidia-smi -l 1"
 
-alias condadump="conda list -e > /home/nityan/nityansuman/requirements.txt"
+alias condadump="conda list -e > /home/nityan/nityansuman/conda/requirements.txt"
 alias zshdump="cat .zshrc > /home/nityan/nityansuman/zshrc-dump"
 
 alias hd2="cd /mnt/hd2/"
+
+# Development docker
+alias notebook_docker="docker run --gpus all -it -p 8888:8888 --rm tensorflow/tensorflow:latest-gpu-jupyter"
+alias tf_docker="docker run --gpus all -it --rm tensorflow/tensorflow:latest-gpu"
