@@ -11,7 +11,10 @@
 
 - :computer: I’m currently working on **Supply Chain AI**
 
-- :speech_balloon: Ask me anything about **Natural Language Processing, Time Series and Computer Vision**
+- :speech_balloon: Ask me about 
+  - **Natural Language Processing**
+  - **Time Series**
+  - **Computer Vision**
 
 - :mailbox_with_mail: How to reach me **nityan.suman@gmail.com**
 
