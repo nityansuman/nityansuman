@@ -12,9 +12,9 @@
 - :computer: I’m currently working on **Supply Chain AI**
 
 - :speech_balloon: Ask me about 
-  - **Natural Language Processing**
-  - **Time Series**
-  - **Computer Vision**
+  - :newspaper:	**Natural Language Processing**
+  - :chart_with_upwards_trend: **Time Series**
+  - :jack_o_lantern: **Computer Vision**
 
 - :mailbox_with_mail: How to reach me **nityan.suman@gmail.com**
 
