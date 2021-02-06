@@ -11,14 +11,17 @@
 
 - :computer: I’m currently working on **Supply Chain AI**
 
-- :speech_balloon: Ask me about **Natural Language Processing, Time Series and Computer Vision**
+- :speech_balloon: Ask me about 
+  - :newspaper:	**Natural Language Processing**
+  - :chart_with_upwards_trend: **Time Series**
+  - :jack_o_lantern: **Computer Vision**
 
 - :mailbox_with_mail: How to reach me **nityan.suman@gmail.com**
 
 - :earth_asia: For a whole lot of shenanigans, connect with me on [**LinkedIn**](https://www.linkedin.com/in/kumar-nityan-suman/)
 
 Something more about me ...
-- :books: Always eager to learn new things.
+- Always eager to learn :books:.
 - I'm passionate about making open-source more accessible, creating technology to elevate people, and building community.
 - A good :man_cook: cook, an enthusiastic badminton :badminton: player, like to draw :art: random stuff and a chess :chess_pawn: enthusiast.
 
