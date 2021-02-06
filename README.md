@@ -21,7 +21,7 @@
 - :earth_asia: For a whole lot of shenanigans, connect with me on [**LinkedIn**](https://www.linkedin.com/in/kumar-nityan-suman/)
 
 Something more about me ...
-- :books: Always eager to learn new things.
+- Always eager to learn :books:.
 - I'm passionate about making open-source more accessible, creating technology to elevate people, and building community.
 - A good :man_cook: cook, an enthusiastic badminton :badminton: player, like to draw :art: random stuff and a chess :chess_pawn: enthusiast.
 
