@@ -99,7 +99,8 @@ plugins=(git zsh-autosuggestions)
 source $ZSH/oh-my-zsh.sh
 
 # User configuration
-ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE="fg=#30E7C0"
+ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE="fg=7"
+bindkey '^ ' autosuggest-accept
 
 # export MANPATH="/usr/local/man:$MANPATH"
 
@@ -126,12 +127,13 @@ ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE="fg=#30E7C0"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 alias jp="jupyter notebook"
-alias add="git add "
-alias ss="git status"
-alias push="git push origin "
-alias pull="git pull origin "
-alias cm="git commit -m "
-alias nsmi="nvidia-smi -l 1"
+alias add="git add"
+alias status="git status"
+alias push="git push origin"
+alias pull="git pull origin"
+alias commit="git commit -m"
+
+alias smi="nvidia-smi -l 1"
 
 alias condadump="conda list -e > /home/nityan/nityansuman/conda/requirements.txt"
 alias zshdump="cat .zshrc > /home/nityan/nityansuman/zshrc-dump"
@@ -139,5 +141,5 @@ alias zshdump="cat .zshrc > /home/nityan/nityansuman/zshrc-dump"
 alias hd2="cd /mnt/hd2/"
 
 # Development docker
-alias notebook_docker="docker run --gpus all -it -p 8888:8888 --rm tensorflow/tensorflow:latest-gpu-jupyter"
-alias tf_docker="docker run --gpus all -it --rm tensorflow/tensorflow:latest-gpu"
+alias notebook_docker="docker run --gpus all -it --rm -v /home/nityan/awesome-ai/:/notebooks -p 8888:8888 tensorflow/tf-gpu-notebook:latest"
+alias tf_docker="docker run --gpus all -it --rm tensorflow/tf-gpu:latest"
