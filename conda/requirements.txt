@@ -149,6 +149,7 @@ jpeg=9b=h024ee3a_2
 json5=0.9.5=py_0
 jsonschema=3.2.0=py_2
 jupyter=1.0.0=py38_7
+jupyter-latex-envs=1.4.6=pypi_0
 jupyter_client=6.1.7=py_0
 jupyter_console=6.2.0=py_0
 jupyter_contrib_core=0.3.3=py_2
