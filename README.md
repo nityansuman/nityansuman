@@ -14,9 +14,18 @@
 
 - :speech_balloon: Ask me about :newspaper:	**Natural Language Processing** and :chart_with_upwards_trend: **Deep Learning**
 
-- :mailbox_with_mail: How to reach me **nityan.suman@gmail.com**
-
 - :earth_asia: For a whole lot of shenanigans, connect with me on [**LinkedIn**](https://www.linkedin.com/in/kumar-nityan-suman/)
+
+:mailbox_with_mail: If you want to invite me to a project (or even chat), don't hesitate to send me a message:
+
+<p align="center">
+  <a href="mailto:nityan.suman@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:nityan.suman@gmail.com" /></a>
+  
+  <a href="https://www.linkedin.com/in/kumar-nityan-suman/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kumar-nityan-suman/" /></a>
+
+</p>
 
 Something more about me ...
 - Always eager to learn :books:.
