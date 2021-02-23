@@ -16,7 +16,7 @@
 
 - :earth_asia: For a whole lot of shenanigans, connect with me on [**LinkedIn**](https://www.linkedin.com/in/kumar-nityan-suman/)
 
-:mailbox_with_mail: If you want to invite me to a project (or even chat), don't hesitate to send me a message:
+:mailbox_with_mail: Invite me to a project (or a quick chat?), reach me at:
 
 <p align="center">
   <a href="mailto:nityan.suman@gmail.com" alt="Gmail">
