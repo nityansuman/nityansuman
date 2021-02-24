@@ -4,11 +4,9 @@
 
 <p align="center"><img src="https://github.githubassets.com/images/modules/notifications/inbox-zero.svg" alt="Nityan Suman - Data Scientist"/></p>
 
-<!--
 <p align="center">
   <img align src="https://github-profile-trophy.vercel.app/?username=nityansuman&column=3&rank=SSS,SS,S,AAA,AA,A" />
 </p>
--->
 
 - :computer: I’m currently working on **Supply Chain AI**
 
