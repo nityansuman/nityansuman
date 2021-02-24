@@ -8,11 +8,9 @@
   <img align src="https://github-profile-trophy.vercel.app/?username=nityansuman&column=3&rank=SSS,SS,S,AAA,AA,A" />
 </p>
 
-- :computer: I’m currently working on **Supply Chain AI**
+:computer: I’m currently working on **Supply Chain AI**
 
-- :speech_balloon: Ask me about :newspaper:	**Natural Language Processing** and :chart_with_upwards_trend: **Deep Learning**
-
-- :earth_asia: For a whole lot of shenanigans, connect with me on [**LinkedIn**](https://www.linkedin.com/in/kumar-nityan-suman/)
+:speech_balloon: Ask me about :newspaper:	**Natural Language Processing** and :chart_with_upwards_trend: **Deep Learning**
 
 :mailbox_with_mail: Invite me to a project (or a quick chat?), reach me at:
 
