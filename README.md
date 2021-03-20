@@ -2,23 +2,27 @@
 
 <h3 align="center">Optimizing the world one algorithm at a time.</h3>
 
-<!-- <p align="center"><img src="https://github.githubassets.com/images/modules/notifications/inbox-zero.svg" alt="Nityan Suman - Data Scientist"/></p> -->
-<p align="center"><img src="images/alternate-header.png" alt="Nityan Suman - Data Scientist"/></p>
+<p align="center"><img src="https://github.githubassets.com/images/modules/notifications/inbox-zero.svg" alt="Nityan Suman - Data Scientist"/></p>
 
 <p align="center">
   <img align src="https://github-profile-trophy.vercel.app/?username=nityansuman&column=3&rank=SSS,SS,S,AAA,AA,A" />
 </p>
 
-- :computer: I’m currently working on **Supply Chain AI**
+:computer: I’m currently working on **Supply Chain AI**
 
-- :speech_balloon: Ask me about 
-  - :newspaper:	**Natural Language Processing**
-  - :chart_with_upwards_trend: **Time Series**
-  - :jack_o_lantern: **Computer Vision**
+:speech_balloon: Ask me about :newspaper:	**Natural Language Processing** and **Computer Vision**
 
-- :mailbox_with_mail: How to reach me **nityan.suman@gmail.com**
+:mailbox_with_mail: Invite me to a project (or a quick chat?), reach me at:
 
-- :earth_asia: For a whole lot of shenanigans, connect with me on [**LinkedIn**](https://www.linkedin.com/in/kumar-nityan-suman/)
+<p align="center">
+  <a href="mailto:nityan.suman@gmail.com" alt="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:nityan.suman@gmail.com" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/kumar-nityan-suman/" alt="Linkedin">
+      <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kumar-nityan-suman/" />
+  </a>
+</p>
 
 Something more about me ...
 - Always eager to learn :books:.
