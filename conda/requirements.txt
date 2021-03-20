@@ -7,6 +7,7 @@ _libgcc_mutex=0.1=main
 abseil-cpp=20200225.2=he1b5a44_2
 absl-py=0.10.0=pypi_0
 alabaster=0.7.12=pyhd3eb1b0_0
+altair=4.1.0=pypi_0
 anaconda=custom=py38_1
 anaconda-client=1.7.2=py38_0
 anaconda-navigator=1.10.0=py38_0
@@ -16,6 +17,7 @@ argh=0.26.2=py38_0
 argon2-cffi=20.1.0=py38h7b6447c_1
 arrow-cpp=3.0.0=py38hced866c_0
 asn1crypto=1.4.0=py_0
+astor=0.8.1=pypi_0
 astroid=2.4.2=py38_0
 astropy=4.2=py38h27cfd23_0
 astunparse=1.6.3=pypi_0
@@ -30,12 +32,14 @@ backports.functools_lru_cache=1.6.1=pyhd3eb1b0_0
 backports.shutil_get_terminal_size=1.0.0=pyhd3eb1b0_3
 backports.tempfile=1.0=pyhd3eb1b0_1
 backports.weakref=1.0.post1=py_1
+base58=2.1.0=pypi_0
 beautifulsoup4=4.9.3=pyha847dfd_0
 bitarray=1.6.3=py38h27cfd23_1
 bkcharts=0.2=py38_0
 black=19.10b0=py_0
 blas=1.0=mkl
 bleach=3.2.3=pyhd3eb1b0_0
+blinker=1.4=pypi_0
 blis=0.7.4=pypi_0
 blosc=1.20.1=hd408876_0
 bokeh=2.2.3=py38_0
@@ -81,6 +85,7 @@ defusedxml=0.6.0=py_0
 diff-match-patch=20200713=py_0
 dill=0.3.3=pypi_0
 distributed=2021.1.1=py38h06a4308_1
+dm-tree=0.1.5=pypi_0
 docutils=0.16=py38_1
 double-conversion=3.1.5=he6710b0_1
 entrypoints=0.3=py38_0
@@ -101,6 +106,8 @@ get_terminal_size=1.0.0=haa9412d_0
 gevent=21.1.1=py38h27cfd23_1
 gflags=2.2.2=he6710b0_0
 giflib=5.1.4=h14c3975_1
+gitdb=4.0.5=pypi_0
+gitpython=3.1.14=pypi_0
 glib=2.66.1=h92f7085_0
 glob2=0.7=pyhd3eb1b0_0
 glog=0.4.0=he6710b0_0
@@ -257,6 +264,7 @@ pathlib2=2.3.5=py38h06a4308_2
 pathspec=0.7.0=py_0
 pathtools=0.1.2=py_1
 pathy=0.3.5=pypi_0
+patool=1.12=pypi_0
 patsy=0.5.1=py38_0
 pcre=8.44=he6710b0_0
 pep8=1.7.1=py38_0
@@ -286,6 +294,7 @@ pycosat=0.6.3=py38h7b6447c_1
 pycparser=2.20=py_2
 pycurl=7.43.0.6=py38h1ba5d50_0
 pydantic=1.7.3=pypi_0
+pydeck=0.6.1=pypi_0
 pydocstyle=5.1.1=py_0
 pyerfa=1.7.1.1=py38h27cfd23_1
 pyflakes=2.2.0=py_0
@@ -329,7 +338,7 @@ rtree=0.9.4=py38_1
 ruamel_yaml=0.15.87=py38h7b6447c_1
 s3transfer=0.3.4=pypi_0
 scikit-image=0.17.2=py38hdf5156a_0
-scikit-learn=0.23.2=py38h0573a6f_0
+scikit-learn=0.24.1=pypi_0
 scipy=1.4.1=pypi_0
 seaborn=0.11.1=pyhd3eb1b0_0
 secretstorage=3.3.0=py38h06a4308_0
@@ -340,6 +349,7 @@ singledispatch=3.4.0.3=py_1001
 sip=4.19.13=py38he6710b0_0
 six=1.15.0=py38h06a4308_0
 smart-open=3.0.0=pypi_0
+smmap=3.0.5=pypi_0
 snappy=1.1.8=he6710b0_0
 snowballstemmer=2.1.0=pyhd3eb1b0_0
 sortedcollections=2.1.0=pyhd3eb1b0_0
@@ -362,6 +372,7 @@ sqlalchemy=1.3.21=py38h27cfd23_0
 sqlite=3.33.0=h62c20be_0
 srsly=2.4.0=pypi_0
 statsmodels=0.12.1=py38h27cfd23_0
+streamlit=0.78.0=pypi_0
 sympy=1.7.1=py38h06a4308_0
 tbb=2020.3=hfd86e86_0
 tblib=1.7.0=py_0
@@ -371,6 +382,7 @@ tensorflow-datasets=4.2.0=pypi_0
 tensorflow-estimator=2.3.0=pypi_0
 tensorflow-gpu=2.3.0=pypi_0
 tensorflow-metadata=0.27.0=pypi_0
+tensorflow-probability=0.12.1=pypi_0
 termcolor=1.1.0=pypi_0
 terminado=0.9.2=py38h06a4308_0
 testpath=0.4.4=pyhd3eb1b0_0
@@ -387,17 +399,20 @@ traitlets=5.0.5=pyhd3eb1b0_0
 typed-ast=1.4.2=py38h27cfd23_1
 typer=0.3.2=pypi_0
 typing_extensions=3.7.4.3=pyh06a4308_0
+tzlocal=2.1=pypi_0
 ujson=4.0.2=py38h2531618_0
 unicodecsv=0.14.1=py38_0
 unixodbc=2.3.9=h7b6447c_0
 uriparser=0.9.3=he6710b0_1
 urllib3=1.26.3=pyhd3eb1b0_0
 utf8proc=2.6.1=h27cfd23_0
+validators=0.18.2=pypi_0
 wasabi=0.8.2=pypi_0
 watchdog=0.10.4=py38h06a4308_0
 wcwidth=0.2.5=py_0
 webencodings=0.5.1=py38_1
 werkzeug=1.0.1=pyhd3eb1b0_0
+wget=3.2=pypi_0
 wheel=0.36.2=pyhd3eb1b0_0
 widgetsnbextension=3.5.1=py38_0
 wrapt=1.12.1=pypi_0
