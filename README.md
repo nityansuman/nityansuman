@@ -14,9 +14,9 @@
 </p>
 -->
 
-:computer: I’m currently working on **Supply Chain AI**
+:computer: I’m currently working on **Supply Chain Forecasting**
 
-:speech_balloon: Ask me about :newspaper:	**Natural Language Processing** and **Computer Vision**
+:speech_balloon: Ask me about :newspaper:	**Sequence Modelling**, **Natural Language Processing** and **Computer Vision**
 
 :mailbox_with_mail: Invite me to a project (or a quick chat?), reach me at:
 
