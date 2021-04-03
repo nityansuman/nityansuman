@@ -14,7 +14,7 @@
 </p>
 -->
 
-:computer: I’m currently working on **Supply Chain Forecasting**
+:computer: I’m currently working on **Supply Chain AI**
 
 :speech_balloon: Ask me about	**Natural Language Processing**, **Computer Vision** and **Time Series**.
 
