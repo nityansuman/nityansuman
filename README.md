@@ -49,7 +49,7 @@ Something more about me ...
 <img align="left" alt="Jupyter Notebook" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
 <img alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-<br><br><br>
+<br>
 
 <img align="left" alt="TensorFlow" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
 <img align="left" alt="ML-Flow" width="60px" src="https://avatars0.githubusercontent.com/u/39938107?s=200&v=4" />
