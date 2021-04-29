@@ -12,7 +12,7 @@
 
 :mountain: Passionate about making open-source more accessible, creating technology to elevate people, and building community.
 
-:mailbox_with_mail: Invite me to a project (or a quick chat?), reach me at:
+:mailbox_with_mail: Invite me to a project (or a quick chat?)
 
 <p align="center">
   <a href="mailto:nityan.suman@gmail.com" alt="Gmail">
