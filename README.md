@@ -18,6 +18,10 @@
 
 :speech_balloon: Ask me about	**Natural Language Processing**, **Computer Vision** and **Time Series**.
 
+:books: Always eager to learn.
+
+:mountain: Passionate about making open-source more accessible, creating technology to elevate people, and building community.
+
 :mailbox_with_mail: Invite me to a project (or a quick chat?), reach me at:
 
 <p align="center">
@@ -29,11 +33,6 @@
       <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kumar-nityan-suman/" />
   </a>
 </p>
-
-Something more about me ...
-- Always eager to learn :books:.
-- I'm passionate about making open-source more accessible, creating technology to elevate people, and building community.
-- A good :man_cook: cook, an enthusiastic badminton :badminton: player, like to draw :art: random stuff and a chess :chess_pawn: enthusiast.
 
 ### Languages, Tools and Packages:
 
