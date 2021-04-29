@@ -18,8 +18,6 @@
 
 :speech_balloon: Ask me about	**Natural Language Processing**, **Computer Vision** and **Time Series**.
 
-:books: Always eager to learn.
-
 :mountain: Passionate about making open-source more accessible, creating technology to elevate people, and building community.
 
 :mailbox_with_mail: Invite me to a project (or a quick chat?), reach me at:
