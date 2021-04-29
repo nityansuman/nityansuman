@@ -2,17 +2,9 @@
 
 <h3 align="center">Optimizing the world one algorithm at a time.</h3>
 
-<p align="center"><img src="https://github.githubassets.com/images/modules/notifications/inbox-zero.svg" alt="Nityan Suman - Data Scientist"/></p>
+<p align="center"><img src="https://github.githubassets.com/images/modules/notifications/inbox-zero.svg" alt="Kumar Nityan Suman - Senior Data Scientist"/></p>
 
-<p align="center">
-  <img align src="https://github-profile-trophy.vercel.app/?username=nityansuman&column=3&rank=SSS,SS,S,AAA,AA,A" />
-</p>
-
-<!--
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nityansuman&hide_border=true" />
-</p>
--->
+<img align="right" alt="GIF" src="https://github.com/nityansuman/nityansuman/blob/main/code.gif?raw=true" width="500" height="320" />
 
 :computer: I’m currently working on **Supply Chain AI**
 
