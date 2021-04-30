@@ -6,7 +6,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/nityansuman/nityansuman/blob/main/code.gif?raw=true" width="500" height="320" />
 
-:computer: I’m currently working on **Supply Chain AI**
+:computer: I’m currently working on scalable **Supply Chain** optimization and forecasting solutions.
 
 :speech_balloon: Passionate about	**Natural Language Processing**, **Computer Vision**, **Time Series** and everything in between.
 
