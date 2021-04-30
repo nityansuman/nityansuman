@@ -8,11 +8,11 @@
 
 :computer: I’m currently working on **Supply Chain AI**
 
-:speech_balloon: Ask me about	**Natural Language Processing**, **Computer Vision** and **Time Series**.
+:speech_balloon: Passionate about	**Natural Language Processing**, **Computer Vision**, **Time Series** and everything in between.
 
-:mountain: Passionate about making open-source more accessible, creating technology to elevate people, and building community.
+:mountain: Determined to make open-source more accessible, creating technology to elevate people, and building community.
 
-:mailbox_with_mail: Invite me to a project (or a quick chat?)
+:mailbox_with_mail: Invite me to a project (or maybe a quick chat?)
 
 <p align="center">
   <a href="mailto:nityan.suman@gmail.com" alt="Gmail">
