@@ -139,11 +139,11 @@ alias commit="git commit -m"
 
 alias smi="nvidia-smi -l 1"
 
-alias dump_ml_env="conda list -e > /home/nityan/nityansuman/ml_env_requirements.txt"
-alias dump_dl_env="conda list -e > /home/nityan/nityansuman/dl_env_requirements.txt"
+alias dump_env="conda list -e > /home/nityan/nityansuman/base_env_requirements.txt; ext"
+alias dump_dl_env="act dl-env; conda list -e > /home/nityan/nityansuman/dl_env_requirements.txt; ext"
 
 alias dump_zsh="cat .zshrc > /home/nityan/nityansuman/dump.zshrc"
 
-alias hd2="cd /mnt/hd2/"
+alias database="cd /mnt/hd2/"
 
 # EoF
