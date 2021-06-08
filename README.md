@@ -8,7 +8,7 @@
 
 :computer: I’m currently working on scalable **Supply Chain** optimization and forecasting solutions.
 
-:speech_balloon: Passionate about	**Time Series**, **Natural Language Processing**, **Computer Vision** and everything in between.
+:speech_balloon: Passionate about	**Natural Language Processing**, **Time Series**, **Computer Vision** and everything in between.
 
 :mountain: Determined to make open-source more accessible, creating technology to elevate people, and building community.
 
