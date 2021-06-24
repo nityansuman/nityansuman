@@ -1,7 +1,5 @@
 <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-<h3 align="center">Optimizing the world one algorithm at a time.</h3>
-
 <p align="center"><img src="https://github.githubassets.com/images/modules/notifications/inbox-zero.svg" alt="Kumar Nityan Suman - Senior Data Scientist"/></p>
 
 <img align="right" alt="GIF" src="https://github.com/nityansuman/nityansuman/blob/main/code.gif?raw=true" width="500" height="320" />
@@ -46,4 +44,3 @@
 If you like what I do, maybe consider buying me a cup of coffee
 
 <a href="https://www.buymeacoffee.com/nityansuman" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
