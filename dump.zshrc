@@ -1,5 +1,3 @@
-# Oh-My-Zsh
-
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
 __conda_setup="$('/home/nityan/anaconda3/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"
@@ -15,14 +13,10 @@ fi
 unset __conda_setup
 # <<< conda initialize <<<
 
-export PATH="$PATH:/usr/local/cuda-10.0/bin"
 export PATH="$PATH:/usr/local/cuda-10.1/bin"
-export PATH="$PATH:/usr/local/cuda-10.2/bin"
-
-export LD_LIBRARY_PATH=/usr/local/cuda/lib64:/usr/local/cuda-10.0/lib64:/usr/local/cuda/extras/CUPTI/lib64:$LD_LIBRARY_PATH
-
 export LD_LIBRARY_PATH=/usr/local/cuda/lib64:/usr/local/cuda-10.1/lib64:/usr/local/cuda/extras/CUPTI/lib64:$LD_LIBRARY_PATH
 
+export PATH="$PATH:/usr/local/cuda-10.2/bin"
 export LD_LIBRARY_PATH=/usr/local/cuda/lib64:/usr/local/cuda-10.2/lib64:/usr/local/cuda/extras/CUPTI/lib64:$LD_LIBRARY_PATH
 
 # Path to your oh-my-zsh installation.
@@ -128,22 +122,16 @@ bindkey '^ ' autosuggest-accept
 
 alias act="conda activate"
 alias ext="conda deactivate"
-
 alias jp="jupyter notebook"
-
 alias add="git add"
 alias status="git status"
 alias push="git push origin"
 alias pull="git pull origin"
 alias commit="git commit -m"
-
 alias smi="nvidia-smi -l 1"
 
-alias dump_env="conda list -e > /home/nityan/nityansuman/base_env_requirements.txt; ext"
-alias dump_dl_env="act dl-env; conda list -e > /home/nityan/nityansuman/dl_env_requirements.txt; ext"
-
+alias dump_env="conda list -e > /home/nityan/nityansuman/requirements/base_requirements.txt; ext"
+alias dump_dl_env="act dl-env; conda list -e > /home/nityan/nityansuman/requirements/dl_requirements.txt; ext"
 alias dump_zsh="cat .zshrc > /home/nityan/nityansuman/dump.zshrc"
-
 alias database="cd /mnt/hd2/"
-
 # EoF
