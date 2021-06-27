@@ -6,11 +6,9 @@
 
 💻 I’m currently working on scalable **Supply Chain** optimization and forecasting solutions.
 
-💬 Expertise in	**Natural Language Processing** and **Sequence Modelling**.
+🍀 Passionate about **Natural Language Processing** and **Sequence Modelling**.
 
-🎈 Passionate about **everything explainable AI**.
-
-🗻 Determined to make open-source more accessible, creating technology to elevate people, and building community.
+⛰️ Determined to make open-source more accessible, creating technology to elevate people, and building community.
 
 📬 How to reach me: [LinkedIn](https://www.linkedin.com/in/kumar-nityan-suman/)
 
