@@ -4,16 +4,18 @@
 
 <img align="right" alt="GIF" src="https://github.com/nityansuman/nityansuman/blob/main/code.gif?raw=true" width="500" height="320" />
 
-:computer: I’m currently working on scalable **Supply Chain** optimization and forecasting solutions.
+💻 I’m currently working on scalable **Supply Chain** optimization and forecasting solutions.
 
-:speech_balloon: Passionate about	**Natural Language Processing**, **Time Series**, **Computer Vision** and everything in between.
+💬 Expertise in	**Natural Language Processing**, and **Sequence Modelling**
 
-:mountain: Determined to make open-source more accessible, creating technology to elevate people, and building community.
+🎈 Passionate about everything AI.
 
-:mailbox_with_mail: How to reach me: [LinkedIn](https://www.linkedin.com/in/kumar-nityan-suman/)
+🗻 Determined to make open-source more accessible, creating technology to elevate people, and building community.
+
+📬 How to reach me: [LinkedIn](https://www.linkedin.com/in/kumar-nityan-suman/)
 
 <p float="left">
-  <img src="https://github-readme-stats-git-master.akanz1.vercel.app/api?username=nityansuman&count_private=true&show_icons=true&hide_border=true&locale=en&custom_title=&title_color=142d70&icon_color=142d70&cache_seconds=3600" width="450" />
+  <img src="https://github-readme-stats-git-master.akanz1.vercel.app/api?username=nityansuman&count_private=true&show_icons=true&hide_border=true&locale=en&custom_title=&title_color=142d70&icon_color=142d70&cache_seconds=60" width="450" />
   <img src="https://github-readme-stats-git-master.akanz1.vercel.app/api/top-langs/?username=nityansuman&layout=compact&hide_border=true&title_color=142d70" width="350"/>
 </p>
 
