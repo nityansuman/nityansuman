@@ -24,7 +24,6 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-white?style=for-the-badge&logo=Pandas)
 ![Numpy](https://img.shields.io/badge/-Numpy-white?style=for-the-badge&logo=Numpy)
 ![Scikit-Learn](https://img.shields.io/badge/-SKLearn-white?style=for-the-badge&logo=Scikit-Learn)
-![ML-Flow](https://img.shields.io/badge/-MLFLow-white?style=for-the-badge&logo=MLFlow)
 ![PySpark](https://img.shields.io/badge/-PySpark-white?style=for-the-badge&logo=Apache-Spark)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?style=for-the-badge&logo=PostgreSQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=for-the-badge&logo=MongoDB)
