@@ -19,22 +19,22 @@
 
 ### Languages, Tools and Packages:
 
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=for-the-badge&logo=PostgreSQL)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=MongoDB)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=for-the-badge&logo=TensorFlow)
-![Pandas](https://img.shields.io/badge/-Pandas-black?style=for-the-badge&logo=Pandas)
-![Numpy](https://img.shields.io/badge/-Numpy-black?style=for-the-badge&logo=Numpy)
-![PySpark](https://img.shields.io/badge/-PySpark-black?style=for-the-badge&logo=Apache-Spark)
-![Scikit-Learn](https://img.shields.io/badge/-SKLearn-black?style=for-the-badge&logo=Scikit-Learn)
-![CatBoost](https://img.shields.io/badge/-CatBoost-black?style=for-the-badge&logo=CatBoost)
-![XGBoost](https://img.shields.io/badge/-XGBoost-black?style=for-the-badge&logo=XGBoost)
-![Terminal](https://img.shields.io/badge/-Terminal-black?style=for-the-badge&logo=Linux)
-![Vim](https://img.shields.io/badge/-Vim-black?style=for-the-badge&logo=Vim)
-![VS Code](https://img.shields.io/badge/-Code-black?style=for-the-badge&logo=Visual-Studio-Code)
-![Notebook](https://img.shields.io/badge/-Notebook-black?style=for-the-badge&logo=Jupyter)
-![ML-Flow](https://img.shields.io/badge/-MLFLow-black?style=for-the-badge&logo=MLFlow)
-![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=Docker)
+![Python](https://img.shields.io/badge/-Python-white?style=for-the-badge&logo=Python)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?style=for-the-badge&logo=PostgreSQL)
+![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=for-the-badge&logo=MongoDB)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-white?style=for-the-badge&logo=TensorFlow)
+![Pandas](https://img.shields.io/badge/-Pandas-white?style=for-the-badge&logo=Pandas)
+![Numpy](https://img.shields.io/badge/-Numpy-white?style=for-the-badge&logo=Numpy)
+![PySpark](https://img.shields.io/badge/-PySpark-white?style=for-the-badge&logo=Apache-Spark)
+![Scikit-Learn](https://img.shields.io/badge/-SKLearn-white?style=for-the-badge&logo=Scikit-Learn)
+![CatBoost](https://img.shields.io/badge/-CatBoost-white?style=for-the-badge&logo=CatBoost)
+![XGBoost](https://img.shields.io/badge/-XGBoost-white?style=for-the-badge&logo=XGBoost)
+![Terminal](https://img.shields.io/badge/-Terminal-white?style=for-the-badge&logo=Linux)
+![Vim](https://img.shields.io/badge/-Vim-white?style=for-the-badge&logo=Vim)
+![VS Code](https://img.shields.io/badge/-Code-white?style=for-the-badge&logo=Visual-Studio-Code)
+![Notebook](https://img.shields.io/badge/-Notebook-white?style=for-the-badge&logo=Jupyter)
+![ML-Flow](https://img.shields.io/badge/-MLFLow-white?style=for-the-badge&logo=MLFlow)
+![Docker](https://img.shields.io/badge/-Docker-white?style=for-the-badge&logo=Docker)
 
 ### Support
 
