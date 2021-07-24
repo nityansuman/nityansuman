@@ -28,8 +28,6 @@
 ![PySpark](https://img.shields.io/badge/-PySpark-white?style=for-the-badge&logo=Apache-Spark)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?style=for-the-badge&logo=PostgreSQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=for-the-badge&logo=MongoDB)
-![CatBoost](https://img.shields.io/badge/-CatBoost-white?style=for-the-badge&logo=CatBoost)
-![XGBoost](https://img.shields.io/badge/-XGBoost-white?style=for-the-badge&logo=XGBoost)
 ![Terminal](https://img.shields.io/badge/-Terminal-white?style=for-the-badge&logo=Linux)
 ![VS Code](https://img.shields.io/badge/-Code-white?style=for-the-badge&logo=Visual-Studio-Code)
 ![Notebook](https://img.shields.io/badge/-Notebook-white?style=for-the-badge&logo=Jupyter)
