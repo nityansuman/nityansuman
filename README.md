@@ -24,8 +24,7 @@ company: "Noodle.ai"
 technical_interests: ["Natural Language Processing", "Sequence Modelling", "Time Series",
                       "Predictive Analytics", "Software Architecture", "Project Planning"]
 currently_learning: ["Generative Networks", "Self-supervised Learning"]
-hobbies: ["Badminton", "Digital Painting", "Cooking",
-          "Anything sports", "Anything dumb and useless"]
+hobbies: ["Cooking", "Digital Painting", "Badminton", "Anything dumb and useless"]
 ```
 
 <!-- <img align="right" alt="GIF" src="https://github.com/nityansuman/nityansuman/blob/main/media/code.gif?raw=true" width="500" height="320" /> -->
