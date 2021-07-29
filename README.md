@@ -1,6 +1,6 @@
 <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-<p align="center"><img src="https://github.githubassets.com/images/modules/notifications/inbox-zero.svg" alt="Kumar Nityan Suman - Senior Data Scientist"/></p>
+![Kumar Nityan Suman - Senior Data Scientist](media/github-header.svg)
 
 <img align="right" alt="GIF" src="https://github.com/nityansuman/nityansuman/blob/main/code.gif?raw=true" width="500" height="320" />
 
@@ -10,7 +10,7 @@
 
 ⛰️ Determined to make open-source more accessible, creating technology to elevate people, and building community.
 
-📬 How to reach me: [LinkedIn](https://www.linkedin.com/in/kumar-nityan-suman/)
+📬 How to reach me: **[LinkedIn](https://www.linkedin.com/in/kumar-nityan-suman/)**
 
 <p float="left">
   <img src="https://github-readme-stats-git-master.akanz1.vercel.app/api?username=nityansuman&count_private=true&show_icons=true&hide_border=true&locale=en&custom_title=&title_color=142d70&icon_color=142d70&cache_seconds=60" width="450" />
