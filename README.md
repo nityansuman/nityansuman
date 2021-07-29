@@ -1,16 +1,34 @@
 <h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-![Kumar Nityan Suman - Senior Data Scientist](media/github-header.svg)
+![nityan](media/github-header.svg)
 
-<img align="right" alt="GIF" src="https://github.com/nityansuman/nityansuman/blob/main/media/code.gif?raw=true" width="500" height="320" />
+<p align="center">
+<a href="https://www.linkedin.com/in/kumar-nityan-suman">
+  <img alt="nityan's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
+</a>
+<a href="https://twitter.com/nityansuman">
+  <img alt="nityan | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
+</a>
+<a href="https://www.instagram.com/drawingado">
+  <img alt="nityan's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
+</a>
+</p>
 
-💻 I’m currently working on scalable supply chain optimization and forecasting AI at **[Noodle.ai](https://noodle.ai)**.
+```yaml
+name: "Kumar Nityan Suman"
+city: "Bengaluru"
+country: "India"
+education: "Bachelor's in Information Science and Engineering"
+job: "Senior Data Scientist"
+company: "Noodle.ai"
+technical_interests: ["Natural Language Processing", "Sequence Modelling", "Time Series",
+                      "Predictive Analytics", "Software Architecture", "Project Planning"]
+currently_learning: ["Generative Networks", "Self-supervised Learning"]
+hobbies: ["Badminton", "Digital Painting", "Cooking",
+          "Anything sports", "Anything dumb and useless"]
+```
 
-🍀 Passionate about **Natural Language Processing** and **Sequence Modelling**.
-
-⛰️ Determined to make open-source more accessible, creating technology to elevate people, and building community.
-
-📬 How to reach me: **[LinkedIn](https://www.linkedin.com/in/kumar-nityan-suman/)**
+<!-- <img align="right" alt="GIF" src="https://github.com/nityansuman/nityansuman/blob/main/media/code.gif?raw=true" width="500" height="320" /> -->
 
 <p float="left">
   <img src="https://github-readme-stats-git-master.akanz1.vercel.app/api?username=nityansuman&count_private=true&show_icons=true&hide_border=true&locale=en&custom_title=&title_color=142d70&icon_color=142d70&cache_seconds=60" width="450" />
