@@ -2,7 +2,7 @@
 
 ![Kumar Nityan Suman - Senior Data Scientist](media/github-header.svg)
 
-<img align="right" alt="GIF" src="https://github.com/nityansuman/nityansuman/blob/main/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/nityansuman/nityansuman/blob/main/media/code.gif?raw=true" width="500" height="320" />
 
 💻 I’m currently working on scalable supply chain optimization and forecasting AI at **[Noodle.ai](https://noodle.ai)**.
 
