@@ -130,8 +130,9 @@ alias pull="git pull origin"
 alias commit="git commit -m"
 alias smi="nvidia-smi -l 1"
 
-alias dump_env="conda list -e > /home/nityan/nityansuman/requirements/base_requirements.txt; ext"
-alias dump_dl_env="act dl-env; conda list -e > /home/nityan/nityansuman/requirements/dl_requirements.txt; ext"
-alias dump_zsh="cat .zshrc > /home/nityan/nityansuman/dump.zshrc"
+alias dump_env="conda list -e > /home/nityan/WORK/nityansuman/requirements/base_requirements.txt; ext"
+alias dump_dl_env="act dl-env; conda list -e > /home/nityan/WORK/nityansuman/requirements/dl_requirements.txt; ext"
+alias dump_zsh="cat .zshrc > /home/nityan/WORK/nityansuman/dump.zshrc"
 alias database="cd /mnt/hd2/"
-# EoF
+
+alias start_docker="docker run --gpus all -it -v /home/nityan/WORK/:/home/ tensorflow2.5-gpu-dev bash"
