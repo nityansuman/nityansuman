@@ -4,7 +4,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/nityansuman/nityansuman/blob/main/code.gif?raw=true" width="500" height="320" />
 
-💻 I’m currently working on scalable **Supply Chain** optimization and forecasting solution at **Noodle.ai**.
+💻 I’m currently working on scalable supply chain optimization and forecasting AI at **[Noodle.ai](https://noodle.ai)**.
 
 🍀 Passionate about **Natural Language Processing** and **Sequence Modelling**.
 
