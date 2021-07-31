@@ -23,7 +23,7 @@ position: "Senior Data Scientist"
 job: ["AI Software Development", "Data Science"]
 company: "Noodle.ai"
 technical_interests: ["Natural Language Processing", "Sequence Modelling", "Time Series",
-                      "Predictive Analytics", "Software Architecture", "Project Planning"]
+                      "Predictive Analytics", "Software Architecture", "Design Pattern"]
 currently_learning: ["Generative Networks", "Self-supervised Learning"]
 hobbies: ["Cooking", "Digital Painting", "Badminton", "Anything dumb and useless"]
 ```
