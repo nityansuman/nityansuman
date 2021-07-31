@@ -47,6 +47,8 @@ hobbies: ["Cooking", "Digital Painting", "Badminton", "Anything dumb and useless
 ![PySpark](https://img.shields.io/badge/-PySpark-black?style=for-the-badge&logo=Apache-Spark)
 ![SparkNLP](https://img.shields.io/badge/-Spark_NLP-blueviolet?style=for-the-badge&logo=Apache-Spark)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/Mongo_DB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-blue?style=for-the-badge&logo=Visual-Studio-Code)
 ![Notebook](https://img.shields.io/badge/-Notebook-black?style=for-the-badge&logo=Jupyter)
