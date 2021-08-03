@@ -35,33 +35,39 @@ hobbies: ["Cooking", "Digital Painting", "Badminton", "Anything dumb and useless
   <img src="https://github-readme-stats-git-master.akanz1.vercel.app/api/top-langs/?username=nityansuman&layout=compact&hide_border=true&title_color=142d70" width="350"/>
 </p>
 
-### Languages, Tools and Packages:
+### Languages & Frameworks:
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
 ![MLFlow](https://img.shields.io/badge/-ML_Flow-blue?style=for-the-badge&logo=redux)
+![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+
+### Database & Middleware
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/Mongo_DB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PySpark](https://img.shields.io/badge/-PySpark-black?style=for-the-badge&logo=Apache-Spark)
 ![SparkNLP](https://img.shields.io/badge/-Spark_NLP-blueviolet?style=for-the-badge&logo=Apache-Spark)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/Mongo_DB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Maplotlib-239120?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-red?style=for-the-badge&logo=plotly&logoColor=white)
+
+### Infrastructure
+
 ![VS Code](https://img.shields.io/badge/-VS_Code-blue?style=for-the-badge&logo=Visual-Studio-Code)
 ![Notebook](https://img.shields.io/badge/-Notebook-black?style=for-the-badge&logo=Jupyter)
 ![Vim](https://img.shields.io/badge/-Vim-black?style=for-the-badge&logo=Vim)
 ![Terminal](https://img.shields.io/badge/-Terminal-black?style=for-the-badge&logo=Linux)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=Docker)
 ![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
-![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Maplotlib-239120?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-red?style=for-the-badge&logo=plotly&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-red?style=for-the-badge&logo=Ubuntu&logoColor=white)
 
 ### Support
 
