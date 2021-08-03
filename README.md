@@ -35,7 +35,7 @@ hobbies: ["Cooking", "Digital Painting", "Badminton", "Anything dumb and useless
   <img src="https://github-readme-stats-git-master.akanz1.vercel.app/api/top-langs/?username=nityansuman&layout=compact&hide_border=true&title_color=142d70" width="350"/>
 </p>
 
-### Languages & Frameworks:
+### Languages & Frameworks
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
