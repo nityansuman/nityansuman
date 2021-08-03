@@ -59,9 +59,9 @@ hobbies: ["Cooking", "Digital Painting", "Badminton", "Anything dumb and useless
 
 ### Infrastructure
 
-![VS Code](https://img.shields.io/badge/-VS_Code-blue?style=for-the-badge&logo=Visual-Studio-Code)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-red?style=for-the-badge&logo=Ubuntu&logoColor=white)
 ![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-blue?style=for-the-badge&logo=Visual-Studio-Code)
 ![Notebook](https://img.shields.io/badge/-Notebook-black?style=for-the-badge&logo=Jupyter)
 ![Vim](https://img.shields.io/badge/-Vim-black?style=for-the-badge&logo=Vim)
 ![Terminal](https://img.shields.io/badge/-Terminal-black?style=for-the-badge&logo=Linux)
