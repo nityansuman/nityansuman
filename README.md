@@ -47,9 +47,6 @@ hobbies: ["Cooking", "Digital Painting", "Badminton", "Anything dumb and useless
 
 ### Packages & Database
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-232F3E?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-232F3E?style=for-the-badge&logo=mysql&logoColor=white)
-
 ![Pandas](https://img.shields.io/badge/Pandas-232F3E?style=for-the-badge&logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-232F3E?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-232F3E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -59,6 +56,8 @@ hobbies: ["Cooking", "Digital Painting", "Badminton", "Anything dumb and useless
 ![XGBoost](https://img.shields.io/badge/XGBoost-232F3E?style=for-the-badge&logo=xamarin&logoColor=white)
 ![CatBoost](https://img.shields.io/badge/CatBoost-232F3E?style=for-the-badge&logo=apache%20cassandra&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/-Apache_Spark-232F3E?style=for-the-badge&logo=Apache-Spark&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-232F3E?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-232F3E?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Infrastructure
 
