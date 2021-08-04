@@ -56,6 +56,8 @@ hobbies: ["Cooking", "Digital Painting", "Badminton", "Anything dumb and useless
 ![Matplotlib](https://img.shields.io/badge/Maplotlib-239120?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-red?style=for-the-badge&logo=plotly&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/-Apache_Spark-black?style=for-the-badge&logo=Apache-Spark)
+![XGBoost](https://img.shields.io/badge/XGBoost-blue?style=for-the-badge&logo=xamarin&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-orange?style=for-the-badge&logo=apache%20cassandra&logoColor=white)
 
 ### Infrastructure
 
