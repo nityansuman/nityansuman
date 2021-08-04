@@ -37,43 +37,44 @@ hobbies: ["Cooking", "Digital Painting", "Badminton", "Anything dumb and useless
 
 ### Languages & Frameworks
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
-![MLFlow](https://img.shields.io/badge/-ML_Flow-blue?style=for-the-badge&logo=redux)
-![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/Python-232F3E?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-232F3E?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-232F3E?style=for-the-badge&logo=Keras&logoColor=white)
+![MLFlow](https://img.shields.io/badge/-ML_Flow-232F3E?style=for-the-badge&logo=redux&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-232F3E?style=for-the-badge&logo=FASTAPI&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-232F3E?style=for-the-badge&logo=Streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-232F3E?style=for-the-badge&logo=flask&logoColor=white)
 
 ### Packages & Database
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SparkNLP](https://img.shields.io/badge/-Spark_NLP-blueviolet?style=for-the-badge&logo=Apache-Spark)
-![Matplotlib](https://img.shields.io/badge/Maplotlib-239120?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-red?style=for-the-badge&logo=plotly&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/-Apache_Spark-black?style=for-the-badge&logo=Apache-Spark)
-![XGBoost](https://img.shields.io/badge/XGBoost-blue?style=for-the-badge&logo=xamarin&logoColor=white)
-![CatBoost](https://img.shields.io/badge/CatBoost-orange?style=for-the-badge&logo=apache%20cassandra&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-232F3E?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-232F3E?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Pandas](https://img.shields.io/badge/Pandas-232F3E?style=for-the-badge&logo=pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-232F3E?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-232F3E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SparkNLP](https://img.shields.io/badge/-Spark_NLP-232F3E?style=for-the-badge&logo=Apache-Spark&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Maplotlib-232F3E?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-232F3E?style=for-the-badge&logo=plotly&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-232F3E?style=for-the-badge&logo=xamarin&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-232F3E?style=for-the-badge&logo=apache%20cassandra&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/-Apache_Spark-232F3E?style=for-the-badge&logo=Apache-Spark&logoColor=white)
 
 ### Infrastructure
 
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-red?style=for-the-badge&logo=Ubuntu&logoColor=white)
-![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-232F3E?style=for-the-badge&logo=Ubuntu&logoColor=white)
+![Mac OS](https://img.shields.io/badge/mac%20os-232F3E?style=for-the-badge&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-232F3E?style=for-the-badge&logo=windows&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![G Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![G Cloud](https://img.shields.io/badge/Google_Cloud-232F3E?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/microsoft%20azure-232F3E?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-![VS Code](https://img.shields.io/badge/-VS_Code-blue?style=for-the-badge&logo=Visual-Studio-Code)
-![Notebook](https://img.shields.io/badge/-Notebook-black?style=for-the-badge&logo=Jupyter)
-![Vim](https://img.shields.io/badge/-Vim-black?style=for-the-badge&logo=Vim)
-![Terminal](https://img.shields.io/badge/-Terminal-black?style=for-the-badge&logo=Linux)
-![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=Docker)
-![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-232F3E?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+![Notebook](https://img.shields.io/badge/-Notebook-232F3E?style=for-the-badge&logo=Jupyter&logoColor=white)
+![Vim](https://img.shields.io/badge/-Vim-232F3E?style=for-the-badge&logo=Vim&logoColor=white)
+![Terminal](https://img.shields.io/badge/-Terminal-232F3E?style=for-the-badge&logo=Linux&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-232F3E?style=for-the-badge&logo=Docker&logoColor=white)
+![Conda](https://img.shields.io/badge/conda-232F3E?&style=for-the-badge&logo=anaconda&logoColor=white)
 
 ### Support
 
