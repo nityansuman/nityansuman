@@ -53,11 +53,11 @@ hobbies: ["Cooking", "Digital Painting", "Badminton", "Anything dumb and useless
 ![SparkNLP](https://img.shields.io/badge/-Spark_NLP-232F3E?style=for-the-badge&logo=Apache-Spark&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Maplotlib-232F3E?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-232F3E?style=for-the-badge&logo=plotly&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/-Apache_Spark-232F3E?style=for-the-badge&logo=Apache-Spark&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-232F3E?style=for-the-badge&logo=xamarin&logoColor=white)
 ![CatBoost](https://img.shields.io/badge/CatBoost-232F3E?style=for-the-badge&logo=apache%20cassandra&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/-Apache_Spark-232F3E?style=for-the-badge&logo=Apache-Spark&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-232F3E?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-232F3E?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-232F3E?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Infrastructure
 
