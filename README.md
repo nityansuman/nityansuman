@@ -64,12 +64,16 @@ hobbies: ["Cooking", "Digital Painting", "Badminton", "Anything dumb and useless
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-red?style=for-the-badge&logo=Ubuntu&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![G Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+
 ![VS Code](https://img.shields.io/badge/-VS_Code-blue?style=for-the-badge&logo=Visual-Studio-Code)
 ![Notebook](https://img.shields.io/badge/-Notebook-black?style=for-the-badge&logo=Jupyter)
 ![Vim](https://img.shields.io/badge/-Vim-black?style=for-the-badge&logo=Vim)
 ![Terminal](https://img.shields.io/badge/-Terminal-black?style=for-the-badge&logo=Linux)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=Docker)
+![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
 
 ### Support
 
