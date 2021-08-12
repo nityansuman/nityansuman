@@ -20,7 +20,7 @@ city: "Bengaluru"
 country: "India"
 education: "Bachelor's in Information Science and Engineering"
 position: "Senior Data Scientist"
-job: ["AI Software Development", "Data Science"]
+job: "Data Science"
 company: "Noodle.ai"
 technical_interests: ["Natural Language Processing", "Sequence Modelling", "Time Series",
                       "Predictive Analytics", "Software Architecture", "Design Pattern"]
