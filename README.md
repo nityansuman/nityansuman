@@ -4,13 +4,13 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/kumar-nityan-suman">
-  <img alt="nityan's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
+  <img alt="kumar nityan suman's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
 </a>
 <a href="https://twitter.com/nityansuman">
-  <img alt="nityan | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
+  <img alt="kumar nityan suman's Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
 </a>
 <a href="https://www.instagram.com/drawingado">
-  <img alt="nityan's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
+  <img alt="kumar nityan suman's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
 </a>
 </p>
 
