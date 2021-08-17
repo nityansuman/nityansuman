@@ -72,6 +72,4 @@ hobbies: ["Cooking", "Digital Painting", "Badminton", "Anything dumb and useless
 ![Docker](https://img.shields.io/badge/-Docker-232F3E?style=for-the-badge&logo=Docker&logoColor=white)
 ![Conda](https://img.shields.io/badge/conda-232F3E?&style=for-the-badge&logo=anaconda&logoColor=white)
 
-### Support
-
 <a href="https://www.buymeacoffee.com/nityansuman" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
