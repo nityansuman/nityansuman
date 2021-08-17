@@ -28,8 +28,6 @@ currently_learning: ["Generative Networks", "Self-supervised Learning"]
 hobbies: ["Cooking", "Digital Painting", "Badminton", "Anything dumb and useless"]
 ```
 
-<!-- <img align="right" alt="GIF" src="https://github.com/nityansuman/nityansuman/blob/main/media/code.gif?raw=true" width="500" height="320" /> -->
-
 <p float="left">
   <img src="https://github-readme-stats-git-master.akanz1.vercel.app/api?username=nityansuman&count_private=true&show_icons=true&hide_border=true&locale=en&custom_title=&title_color=142d70&icon_color=142d70&cache_seconds=60" width="450" />
   <img src="https://github-readme-stats-git-master.akanz1.vercel.app/api/top-langs/?username=nityansuman&layout=compact&hide_border=true&title_color=142d70" width="350"/>
@@ -67,7 +65,6 @@ hobbies: ["Cooking", "Digital Painting", "Badminton", "Anything dumb and useless
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![G Cloud](https://img.shields.io/badge/Google_Cloud-232F3E?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/microsoft%20azure-232F3E?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
 ![VS Code](https://img.shields.io/badge/-VS_Code-232F3E?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
 ![Notebook](https://img.shields.io/badge/-Notebook-232F3E?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Vim](https://img.shields.io/badge/-Vim-232F3E?style=for-the-badge&logo=Vim&logoColor=white)
