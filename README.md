@@ -78,7 +78,7 @@ hobbies: ["Cooking", "Digital Painting", "Badminton", "Anything dumb and useless
 
 ### Python
 
-- [Learning Python - Tutorials Point Resource](https://www.tutorialspoint.com/python/index.htm)
-- [More on Python - W3 School Resource](https://www.w3schools.com/PYTHON/)
+- [Learning Python - Tutorials Point](https://www.tutorialspoint.com/python/index.htm)
+- [More on Python - W3 School](https://www.w3schools.com/PYTHON/)
 - [Python for Everybody Specialization - Coursera](https://www.coursera.org/specializations/python)
 - [Practise on Hackerrank](https://www.hackerrank.com/domains/python?badge_type=python)
