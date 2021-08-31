@@ -76,7 +76,7 @@ hobbies: ["Cooking", "Digital Painting", "Badminton", "Anything dumb and useless
 
 - [Learning Python - Tutorials Point](https://www.tutorialspoint.com/python/index.htm)
 - [More on Python - W3 School](https://www.w3schools.com/PYTHON/)
-- [Python Practise on Hackerrank](https://www.hackerrank.com/domains/python?badge_type=python)
+- [Practise Python on Hackerrank](https://www.hackerrank.com/domains/python?badge_type=python)
 - [Python for Everybody Specialization - Coursera](https://www.coursera.org/specializations/python)
 - [Everything About PostgreSQL](https://www.postgresqltutorial.com/)
 - [Mastering TensorFlow: The Right Way](https://www.tensorflow.org/guide)
