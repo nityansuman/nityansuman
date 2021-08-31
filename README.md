@@ -53,7 +53,6 @@ hobbies: ["Cooking", "Digital Painting", "Badminton", "Anything dumb and useless
 ![Seaborn](https://img.shields.io/badge/Seaborn-232F3E?style=for-the-badge&logo=plotly&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-232F3E?style=for-the-badge&logo=xamarin&logoColor=white)
 ![CatBoost](https://img.shields.io/badge/CatBoost-232F3E?style=for-the-badge&logo=apache%20cassandra&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-232F3E?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-232F3E?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Infrastructure
@@ -75,9 +74,9 @@ hobbies: ["Cooking", "Digital Painting", "Badminton", "Anything dumb and useless
 
 ## Recommended Learning Resources
 
-### Python
-
 - [Learning Python - Tutorials Point](https://www.tutorialspoint.com/python/index.htm)
 - [More on Python - W3 School](https://www.w3schools.com/PYTHON/)
+- [Python Practise on Hackerrank](https://www.hackerrank.com/domains/python?badge_type=python)
 - [Python for Everybody Specialization - Coursera](https://www.coursera.org/specializations/python)
-- [Practise on Hackerrank](https://www.hackerrank.com/domains/python?badge_type=python)
+- [Everything About PostgreSQL](https://www.postgresqltutorial.com/)
+- [Mastering TensorFlow: The Right Way](https://www.tensorflow.org/guide)
