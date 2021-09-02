@@ -16,8 +16,6 @@
 
 ```yaml
 name: "Kumar Nityan Suman"
-city: "Bengaluru"
-country: "India"
 education: "Bachelor's in Information Science and Engineering"
 position: "Senior Data Scientist"
 job: "Data Science"
