@@ -70,12 +70,12 @@ hobbies: ["Cooking", "Painting", "Badminton", "Anything dumb and useless"]
 
 <!-- <a href="https://www.buymeacoffee.com/nityansuman" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> -->
 
-## Recommended Learning Resources
+## Recommended Data Science Learning Path (In-Order)
 
-- [Learning Python - Tutorials Point](https://www.tutorialspoint.com/python/index.htm)
-- [More on Python - W3 School](https://www.w3schools.com/PYTHON/)
-- [Practise Python on Hackerrank](https://www.hackerrank.com/domains/python?badge_type=python)
-- [Python for Everybody Specialization](https://www.coursera.org/specializations/python)
-- [Everything About PostgreSQL](https://www.postgresqltutorial.com/)
-- [Starting with Stats](https://www.youtube.com/watch?v=xxpc-HPKN28)
-- [Mastering TensorFlow: The Right Way](https://www.tensorflow.org/guide)
+- [1a. Introduction to Python - Tutorials Point](https://www.tutorialspoint.com/python/index.htm)
+- [1b. Introduction to Python - W3 School](https://www.w3schools.com/PYTHON/)
+- [2. Practise Python on Hackerrank](https://www.hackerrank.com/domains/python?badge_type=python)
+- [3. Python for Everybody Specialization - Python and More](https://www.coursera.org/specializations/python)
+- [4. Everything About PostgreSQL](https://www.postgresqltutorial.com/)
+- [5. Starting with Statistics](https://www.youtube.com/watch?v=xxpc-HPKN28)
+- [6. Mastering TensorFlow: The Right Way](https://www.tensorflow.org/guide)
