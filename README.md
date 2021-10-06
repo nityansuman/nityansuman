@@ -23,7 +23,7 @@ company: "Noodle.ai"
 technical_interests: ["Sequence Modelling", "Natural Language Processing", "Time Series",
                       "Software Architecture", "Design Pattern"]
 currently_learning: ["Self-supervised Learning", "Graph Neural Networks"]
-hobbies: ["Cooking", "Digital Painting", "Badminton", "Anything dumb and useless"]
+hobbies: ["Cooking", "Painting", "Badminton", "Anything dumb and useless"]
 ```
 
 <p float="left">
