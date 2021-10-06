@@ -26,12 +26,13 @@ currently_learning: ["Self-supervised Learning", "Graph Neural Networks"]
 hobbies: ["Cooking", "Painting", "Badminton", "Anything dumb and useless"]
 ```
 
-<p float="left">
-<!--   <img src="https://github-readme-stats-git-master.akanz1.vercel.app/api?username=nityansuman&count_private=true&show_icons=true&hide_border=true&locale=en&custom_title=&title_color=142d70&icon_color=142d70&cache_seconds=60" width="450" /> -->
+<!-- <p float="left">
+  <img src="https://github-readme-stats-git-master.akanz1.vercel.app/api?username=nityansuman&count_private=true&show_icons=true&hide_border=true&locale=en&custom_title=&title_color=142d70&icon_color=142d70&cache_seconds=60" width="450" />
   <img src="https://github-readme-stats-git-master.akanz1.vercel.app/api/top-langs/?username=nityansuman&layout=compact&hide_border=true&title_color=142d70" width="350"/>
 </p>
-
-### Languages & Frameworks
+ -->
+ 
+<!-- ### Languages & Frameworks
 
 ![Python](https://img.shields.io/badge/Python-232F3E?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-232F3E?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -67,7 +68,8 @@ hobbies: ["Cooking", "Painting", "Badminton", "Anything dumb and useless"]
 ![Terminal](https://img.shields.io/badge/-Terminal-232F3E?style=for-the-badge&logo=Linux&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-232F3E?style=for-the-badge&logo=Docker&logoColor=white)
 ![Conda](https://img.shields.io/badge/conda-232F3E?&style=for-the-badge&logo=anaconda&logoColor=white)
-
+ -->
+ 
 <!-- <a href="https://www.buymeacoffee.com/nityansuman" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> -->
 
 ## Recommended Data Science Resources
