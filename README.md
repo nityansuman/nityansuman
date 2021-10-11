@@ -19,7 +19,7 @@ name: "Kumar Nityan Suman"
 education: "Bachelor's in Information Science and Engineering"
 position: "Senior Data Scientist"
 job: "Data Science"
-company: "Noodle.ai"
+company: "DB Digital (Dainik Bhaskar Corp.)"
 technical_interests: ["Sequence Modelling", "Natural Language Processing", "Time Series",
                       "Software Architecture", "Design Pattern"]
 currently_learning: ["Self-supervised Learning", "Graph Neural Networks"]
