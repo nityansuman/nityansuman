@@ -20,7 +20,7 @@ education: "Bachelor's in Information Science and Engineering"
 position: "Senior Data Scientist"
 job: "Data Science"
 company: "DB Digital (Dainik Bhaskar Corp.)"
-technical_interests: ["Sequence Modelling", "Natural Language Processing", "Time Series", "Software Architecture"]
+technical_interests: ["Sequence Modelling", "Natural Language Processing", "Time Series"]
 currently_learning: ["Self-supervised Learning", "Graph Neural Networks"]
 hobbies: ["Cooking", "Painting", "Badminton", "Anything dumb and useless"]
 ```
