@@ -43,6 +43,6 @@ FROM ${BUILD}-server AS selected-build-0
 # # docker rmi image-id
 # # docker ps -a
 # # docker container prune
-# # docker build -t name -f Dockerfile --build-arg BUILD=build_name .
+# # docker build -t name -f Dockerfile --build-arg BUILD=build-name .
 # # docker run --gpus all -it --rm name:tag python -c "import tensorflow as tf; print(tf.reduce_sum(tf.random.normal([1000, 1000])))"
 # # docker run --gpus all -it --rm name:tag
