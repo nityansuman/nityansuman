@@ -1,11 +1,13 @@
 # syntax=docker/dockerfile:1
 
-FROM tensorflow/tensorflow:2.6.0-gpu
+ARG BUILD base
 
-WORKDIR /tf
+####################################################################################################
+# Base Build: Python 3.9 + TF 2.6 GPU
+####################################################################################################
+FROM tensorflow/tensorflow:2.6.0-gpu AS base-server
 
 RUN pip install --upgrade pip
-
 RUN pip install \
 	pandas>=1.3.0 \
 	numpy>=1.20.3 \
@@ -21,11 +23,26 @@ RUN pip install \
 	tfx>=1.3.0 \
 	ray>=1.8.0
 
+####################################################################################################
+# Base Build: Python 3.9 + TF 2.6 GPU
+####################################################################################################
+FROM base-server AS jp-server
+
+RUN pip install notebook
+
+EXPOSE 8888
+
+CMD ["jupyter", "notebook", "--port=8888", "--no-browser", "--ip=0.0.0.0", "--allow-root"]
+
+####################################################################################################
+FROM ${BUILD}-server AS selected-build-0
+
 
 # # COMMANDS
 # # docker images
 # # docker rmi image-id
 # # docker ps -a
 # # docker container prune
-# # docker build -t name .
-# # docker run --gpus all -it --rm dev-dock:latest python -c "import tensorflow as tf; print(tf.reduce_sum(tf.random.normal([1000, 1000])))"
+# # docker build -t name -f Dockerfile --build-arg BUILD=build_name .
+# # docker run --gpus all -it --rm name:tag python -c "import tensorflow as tf; print(tf.reduce_sum(tf.random.normal([1000, 1000])))"
+# # docker run --gpus all -it --rm name:tag
