@@ -2,7 +2,7 @@
 
 ![nityan](media/github-header.svg)
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://www.linkedin.com/in/kumar-nityan-suman">
   <img alt="kumar nityan suman's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
 </a>
@@ -12,7 +12,7 @@
 <a href="https://www.instagram.com/drawingado">
   <img alt="kumar nityan suman's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
 </a>
-</p>
+</p> -->
 
 ```yaml
 name: Kumar Nityan Suman
