@@ -3,9 +3,9 @@
 ARG BUILD base
 
 ####################################################################################################
-# Base Build: Python + TF 2.6 GPU
+# Base Build: Python + TF 2.7 GPU
 ####################################################################################################
-FROM tensorflow/tensorflow:2.6.0-gpu AS base-server
+FROM tensorflow/tensorflow:2.7.0-gpu AS base-server
 
 RUN pip install --upgrade pip
 RUN pip install \
@@ -26,23 +26,25 @@ RUN pip install \
 ####################################################################################################
 # Jupyter Build: Base Build + Jupyter Notebook
 ####################################################################################################
-FROM base-server AS jp-server
+FROM base-server AS notebook-server
 
 RUN pip install notebook
 
+WORKDIR home/
+
+ENV TINI_VERSION v0.6.0
+ADD https://github.com/krallin/tini/releases/download/${TINI_VERSION}/tini /usr/bin/tini
+RUN chmod +x /usr/bin/tini
+ENTRYPOINT ["/usr/bin/tini", "--"]
+
 EXPOSE 8888
+
 CMD ["jupyter", "notebook", "--port=8888", "--no-browser", "--ip=0.0.0.0", "--allow-root"]
+
+# "--NotebookApp.token='lab'"
 
 ####################################################################################################
 # Select Build
 ####################################################################################################
 FROM ${BUILD}-server AS selected-build-0
 
-# # COMMANDS
-# # docker images
-# # docker rmi image-id
-# # docker ps -a
-# # docker container prune
-# # docker build -t name -f Dockerfile --build-arg BUILD=build-name .
-# # docker run --gpus all -it --rm name:tag python -c "import tensorflow as tf; print(tf.reduce_sum(tf.random.normal([1000, 1000])))"
-# # docker run --gpus all -it --rm name:tag
