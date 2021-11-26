@@ -8,12 +8,14 @@ ARG BUILD base
 FROM tensorflow/tensorflow:2.7.0-gpu AS base-server
 
 RUN pip install --upgrade pip
+
 RUN pip install \
+	scikit-learn>=1.0.0 \
 	pandas>=1.3.0 \
 	numpy>=1.20.3 \
 	catboost>=0.26 \
 	numba>=0.53.0 \
-	seaborn==0.11.0 \
+	seaborn>=0.11.0 \
 	matplotlib>=3.4.0 \
 	yfinance>=0.1.0 \
 	nltk>=3.5 \
@@ -32,19 +34,15 @@ RUN pip install notebook
 
 WORKDIR home/
 
-ENV TINI_VERSION v0.6.0
-ADD https://github.com/krallin/tini/releases/download/${TINI_VERSION}/tini /usr/bin/tini
-RUN chmod +x /usr/bin/tini
-ENTRYPOINT ["/usr/bin/tini", "--"]
+# ENV TINI_VERSION v0.6.0
+# ADD https://github.com/krallin/tini/releases/download/${TINI_VERSION}/tini /usr/bin/tini
+# RUN chmod +x /usr/bin/tini
+# ENTRYPOINT ["/usr/bin/tini", "--"]
 
 EXPOSE 8888
-
 CMD ["jupyter", "notebook", "--port=8888", "--no-browser", "--ip=0.0.0.0", "--allow-root"]
-
-# "--NotebookApp.token='lab'"
 
 ####################################################################################################
 # Select Build
 ####################################################################################################
 FROM ${BUILD}-server AS selected-build-0
-
