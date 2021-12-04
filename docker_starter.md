@@ -176,10 +176,22 @@ docker images
 docker ps -a
 ```
 
+- Remove stopped containers
+
+```
+docker container prune
+```
+
 - Remove docker image
 
 ```
-docker rmi image-name:tag
+docker rmi IMAGE_NAME:TAG
+```
+
+- Build docker conatiner
+
+```
+docker build --no-cache -t BUILD_NAME -f Dockerfile --rm --build-arg BUILD=BUILD_NAME_ARG .
 ```
 
 - Run docker conatiner
@@ -187,7 +199,7 @@ docker rmi image-name:tag
 To run an image inside of a container, we use the docker run command. The docker run command requires one parameter which is the name of the image.
 
 ```
-docker run -p host-port:container-port image-name
+docker run --gpus all -it --rm -p 8888:8888 -v ~/SOURCE/:/DESTINATION/ IMAGE_NAME:TAG
 ```
 
 - Run in detached mode
@@ -195,15 +207,7 @@ docker run -p host-port:container-port image-name
 This is great so far, but our sample application is a web server and we don’t have to be connected to the container. Docker can run your container in detached mode or in the background. To do this, we can use the --detach or -d for short. Docker starts your container the same as before but this time will “detach” from the container and return you to the terminal prompt.
 
 ```
-docker run -d -p host-port:container-port (optional) image-name
-```
-
-- Run in foreground mode
-
-In foreground mode (the default when -d is not specified), docker run can start the process in the container and attach the console to the process’s standard input, output, and standard error. It can even pretend to be a TTY (this is what most command line executables expect) and pass along signals.
-
-```
-docker run -it -p host-port:container-port (optional) image-name:tag bash
+docker run --gpus all -it --rm -d -p 8888:8888 -v ~/SOURCE/:/DESTINATION/ IMAGE_NAME:TAG
 ```
 
 [More on Docker with Python](https://docs.docker.com/language/python/)
