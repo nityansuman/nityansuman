@@ -19,7 +19,9 @@ RUN pip install \
 	numba>=0.53.0 \
 	seaborn>=0.11.0 \
 	matplotlib>=3.4.0 \
-	transformers>=4.12.0
+	transformers>=4.12.0 \
+	tensorflow-recommenders>=0.6.0 \
+	tensorflow-datasets>=4.4.0
 
 ####################################################################################################
 # Jupyter Build: GPU build with Notebook
