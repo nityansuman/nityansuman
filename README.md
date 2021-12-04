@@ -18,10 +18,9 @@
 name: Kumar Nityan Suman
 education: Bachelor's in Information Science and Engineering
 position: Senior Data Scientist
-job: Data Science
+responsibility: Leading efforts for recommendation & personalization in vernacular languages.
 company: Dainik Bhaskar Digital
-technical_interests: ["Sequence Modelling", "Natural Language Processing", "Time Series"]
-currently_learning: ["Self-supervised Learning", "Graph Neural Networks"]
+technical_expertise: ["Natural Language Processing", "Sequence Modelling", "Analytics"]
 hobbies: ["Cooking", "Painting", "Badminton", "Anything dumb and useless"]
 ```
 
