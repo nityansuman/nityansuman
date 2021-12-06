@@ -9,6 +9,8 @@ FROM tensorflow/tensorflow:2.7.0-gpu AS gpu-server
 
 RUN apt-get -y install git
 
+RUN apt -y install graphviz
+
 RUN pip install --upgrade pip
 
 RUN pip install \
@@ -21,7 +23,12 @@ RUN pip install \
 	matplotlib>=3.4.0 \
 	transformers>=4.12.0 \
 	tensorflow-recommenders>=0.6.0 \
-	tensorflow-datasets>=4.4.0
+	tensorflow-datasets>=4.4.0 \
+	tensorflow-hub>=0.12.0 \
+	pydot>=1.4.2 \
+	tensorflow-text>=2.7.3 \
+	ipywidgets>=7.6.5 \
+	notebook>=6.4.5
 
 ####################################################################################################
 # Jupyter Build: GPU build with Notebook
