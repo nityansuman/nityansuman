@@ -71,7 +71,7 @@ hobbies: ["Cooking", "Painting", "Badminton", "Anything dumb and useless"]
  
 <!-- <a href="https://www.buymeacoffee.com/nityansuman" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> -->
 
-## Recommended Data Science Resources
+## Getting Started with Data Science
 
 - [1a. Introduction to Python - Tutorials Point](https://www.tutorialspoint.com/python/index.htm)
 - [1b. Introduction to Python - W3 School](https://www.w3schools.com/PYTHON/)
