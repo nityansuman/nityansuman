@@ -1,6 +1,6 @@
 # syntax=docker/dockerfile:1
 
-ARG BUILD base
+ARG BUILD
 
 ####################################################################################################
 # Base Build: Python-3.8.12
@@ -8,9 +8,8 @@ ARG BUILD base
 FROM python:3.8.12-bullseye AS base-server
 
 RUN apt-get -y install git
-
 RUN pip install --upgrade pip
-
+RUN pip install --upgrade setuptools
 RUN apt-get update \
 	&& apt-get -y install libpq-dev gcc \
 	&& pip install psycopg2
@@ -30,14 +29,11 @@ RUN pip install \
 ####################################################################################################
 FROM tensorflow/tensorflow:2.7.0-gpu AS gpu-server
 
-RUN apt-get update
-
-RUN pip install --upgrade pip
-
-RUN apt -y install graphviz
-
+RUN apt-get -y update
 RUN apt-get -y install git
-
+RUN pip install --upgrade pip
+RUN pip install --upgrade setuptools
+RUN apt -y install graphviz
 RUN apt-get update \
 	&& apt-get -y install libpq-dev gcc \
 	&& pip install psycopg2
