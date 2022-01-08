@@ -73,10 +73,11 @@ hobbies: ["Cooking", "Painting", "Badminton", "Anything dumb and useless"]
 
 ## Getting Started with Data Science
 
-- [1a. Introduction to Python - Tutorials Point](https://www.tutorialspoint.com/python/index.htm)
-- [1b. Introduction to Python - W3 School](https://www.w3schools.com/PYTHON/)
+- [1. Introduction to Python](https://www.w3schools.com/PYTHON/)
 - [2. Practise Python on Hackerrank](https://www.hackerrank.com/domains/python?badge_type=python)
 - [3. Python for Everybody Specialization - Python and More](https://www.coursera.org/specializations/python)
 - [4. Everything About PostgreSQL](https://www.postgresqltutorial.com/)
-- [5. Starting with Statistics](https://www.youtube.com/watch?v=xxpc-HPKN28)
-- [6. Mastering TensorFlow: The Right Way](https://www.tensorflow.org/guide)
+- [5. Learning Statistics](https://www.youtube.com/watch?v=xxpc-HPKN28)
+- [6. Getting Started with Machine Learning](https://www.coursera.org/learn/machine-learning)
+- [7. Getting Started with Deep Learning](https://www.coursera.org/specializations/deep-learning)
+- [8. Mastering TensorFlow: The Right Way](https://www.tensorflow.org/guide)
