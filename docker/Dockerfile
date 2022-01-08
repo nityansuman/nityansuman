@@ -1,17 +1,46 @@
 # syntax=docker/dockerfile:1
 
-ARG BUILD gpu
+ARG BUILD base
 
 ####################################################################################################
-# GPU Build: Py3.8 with TF (2.7.0 GPU)
+# Base Build: Python-3.8.12
 ####################################################################################################
-FROM tensorflow/tensorflow:2.7.0-gpu AS gpu-server
+FROM python:3.8.12-bullseye AS base-server
 
 RUN apt-get -y install git
 
-RUN apt -y install graphviz
+RUN pip install --upgrade pip
+
+RUN apt-get update \
+	&& apt-get -y install libpq-dev gcc \
+	&& pip install psycopg2
+
+RUN pip install \
+	scikit-learn>=1.0.0 \
+	pandas>=1.3.0 \
+	numpy>=1.20.3 \
+	catboost>=0.26 \
+	seaborn>=0.11.0 \
+	matplotlib>=3.4.0 \
+	ipywidgets>=7.6.5 \
+	notebook>=6.4.5
+
+####################################################################################################
+# GPU Build: TensorFlow-2.7.0-GPU
+####################################################################################################
+FROM tensorflow/tensorflow:2.7.0-gpu AS gpu-server
+
+RUN apt-get update
 
 RUN pip install --upgrade pip
+
+RUN apt -y install graphviz
+
+RUN apt-get -y install git
+
+RUN apt-get update \
+	&& apt-get -y install libpq-dev gcc \
+	&& pip install psycopg2
 
 RUN pip install \
 	scikit-learn>=1.0.0 \
@@ -25,27 +54,12 @@ RUN pip install \
 	tensorflow-recommenders>=0.6.0 \
 	tensorflow-datasets>=4.4.0 \
 	tensorflow-hub>=0.12.0 \
-	pydot>=1.4.2 \
 	tensorflow-text>=2.7.3 \
+	tf-models-official>=2.7.0 \
+	scann>=1.2.4 \
+	pydot>=1.4.2 \
 	ipywidgets>=7.6.5 \
 	notebook>=6.4.5
-
-####################################################################################################
-# Jupyter Build: GPU build with Notebook
-####################################################################################################
-# FROM gpu-server AS notebook-server
-
-# RUN pip install notebook>=6.4.5
-
-# WORKDIR home/
-
-# # ENV TINI_VERSION v0.6.0
-# # ADD https://github.com/krallin/tini/releases/download/${TINI_VERSION}/tini /usr/bin/tini
-# # RUN chmod +x /usr/bin/tini
-# # ENTRYPOINT ["/usr/bin/tini", "--"]
-
-# EXPOSE 8888
-# CMD ["jupyter", "notebook", "--port=8888", "--no-browser", "--ip=0.0.0.0", "--allow-root"]
 
 ####################################################################################################
 # Select Build
