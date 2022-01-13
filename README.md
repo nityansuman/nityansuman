@@ -20,8 +20,8 @@ education: Bachelor's in Information Science and Engineering
 position: Senior Data Scientist
 responsibility: Leading efforts for recommendation & personalization in Indian languages
 company: Dainik Bhaskar Digital
-technical_expertise: ["Natural Language Processing", "Sequence Modelling", "Time Series"]
-currently_learning: ["Graph Neural Networks", "Environment Virtualization"]
+passionate: ["Natural Language Processing", "Sequence Modelling", "Time Series"]
+learning: ["Graph Neural Networks", "Environment Virtualization"]
 hobbies: ["Cooking", "Painting", "Badminton", "Anything dumb and useless"]
 ```
 
