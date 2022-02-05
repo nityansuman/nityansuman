@@ -2,34 +2,39 @@
 
 ![nityan](media/github-header.svg)
 
-<!-- <p align="center">
-<a href="https://www.linkedin.com/in/kumar-nityan-suman">
-  <img alt="kumar nityan suman's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
-</a>
-<a href="https://twitter.com/nityansuman">
-  <img alt="kumar nityan suman's Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
-</a>
-<a href="https://www.instagram.com/drawingado">
-  <img alt="kumar nityan suman's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
-</a>
-</p> -->
-
-```yaml
-name: Kumar Nityan Suman
-education: Bachelor's in Information Science and Engineering
-position: Senior Data Scientist
-responsibility: Leading efforts for recommendation & personalization in Indian languages.
-company: Dainik Bhaskar Digital
-passionate: ["Natural Language Processing / Understanding",  "Time Series", "Sequence Modelling"]
-learning: ["Graph Neural Networks", "Reinforcement Learning"]
-hobbies: ["Cooking", "Painting", "Badminton", "Anything dumb and useless"]
-```
-<p float="center">
-  <img src="https://github-readme-stats-git-master.akanz1.vercel.app/api?username=nityansuman&count_private=true&show_icons=true&hide_border=true&locale=en&custom_title=&title_color=142d70&icon_color=142d70&cache_seconds=60" width="450" />
-  <img src="https://github-readme-stats-git-master.akanz1.vercel.app/api/top-langs/?username=nityansuman&layout=compact&hide_border=true&title_color=142d70" width="350"/>
+<p align="center">
+	<a href="https://www.linkedin.com/in/kumar-nityan-suman">
+		<img alt="kumar nityan suman's LinkdeIN" src="media/linkedin.png" />
+	</a>
+	<a href="https://twitter.com/nityansuman">
+		<img alt="kumar nityan suman's Twitter" src="media/twitter.png" />
+	</a>
+	<a href="https://www.instagram.com/drawingado">
+		<img alt="kumar nityan suman's Instagram" src="media/instagram.png" />
+	</a>
 </p>
 
-<!-- <a href="https://www.buymeacoffee.com/nityansuman" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> -->
+```json
+{
+	"name": "Kumar Nityan Suman",
+	"education": "Bachelor's in Information Science and Engineering",
+	"job": {
+		"position": "Senior Data Scientist",
+		"responsibility": "Leading efforts for recommendation & personalization in Indian languages.",
+		"company": "Dainik Bhaskar Digital"
+	},
+	"expertise": ["Natural Language Processing / Understanding",  "Time Series", "Sequence Modelling"],
+	"interests": {
+		"academic": ["Graph Neural Networks", "Reinforcement Learning"],
+		"fun": ["Cooking", "Painting", "Badminton", "Anything dumb and useless"]
+	}
+}
+```
+
+<p float="center">
+	<img src="https://github-readme-stats-git-master.akanz1.vercel.app/api?username=nityansuman&count_private=true&show_icons=true&hide_border=true&locale=en&custom_title=&title_color=142d70&icon_color=142d70&cache_seconds=60" width="450" />
+	<img src="https://github-readme-stats-git-master.akanz1.vercel.app/api/top-langs/?username=nityansuman&layout=compact&hide_border=true&title_color=142d70" width="350"/>
+</p>
 
 ## Getting Started with Data Science
 
