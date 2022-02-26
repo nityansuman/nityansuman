@@ -18,16 +18,14 @@
 {
 	"name": "Kumar Nityan Suman",
 	"education": "Bachelor's in Information Science and Engineering",
-	"job": {
+	"work": {
 		"position": "Senior Data Scientist",
 		"responsibility": "Leading efforts for recommendation & personalization in Indian languages.",
 		"company": "Dainik Bhaskar Digital"
 	},
 	"expertise": ["Natural Language Processing / Understanding",  "Time Series", "Sequence Modelling"],
-	"interests": {
-		"academic": ["Graph Neural Networks", "Reinforcement Learning"],
-		"fun": ["Cooking", "Painting", "Badminton", "Anything dumb and useless"]
-	}
+	"learning": ["Graph Neural Networks", "Reinforcement Learning"],
+	"likes": ["Cooking", "Painting", "Badminton", "Anything dumb and useless"]
 }
 ```
 
