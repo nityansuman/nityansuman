@@ -24,18 +24,18 @@ RUN pip install \
 	numba>=0.53.0 \
 	seaborn>=0.11.0 \
 	matplotlib>=3.4.0 \
-	tensorflow-gpu==2.7.0 \
+	tensorflow-text==2.7.3 \
+	tensorflow-io==0.23.1 \
 	tensorflow-recommenders==0.6.0 \
 	tensorflow-hub>=0.12.0 \
-	tensorflow-io>=0.24.0 \
 	tensorflow-datasets>=4.4.0 \
-	tensorflow-hub>=0.12.0 \
-	tensorflow-text>=2.7.3 \
 	tf-models-official>=2.7.0 \
 	scann>=1.2.4 \
 	pydot>=1.4.2 \
 	ipywidgets>=7.6.5 \
-	notebook>=6.4.5
+	notebook>=6.4.5 \
+	pyarrow==7.0.0 \
+	boto3==1.21.20
 
 ####################################################################################################
 # Select Build
