@@ -15,18 +15,16 @@
 </p>
 
 ```json
-{
-	"name": "Kumar Nityan Suman",
-	"education": "Bachelor's in Information Science and Engineering",
-	"work": {
-		"position": "Senior Data Scientist",
-		"responsibility": "Leading efforts for recommendation & personalization in Indian languages.",
-		"company": "Dainik Bhaskar Digital"
-	},
-	"expertise": ["Natural Language Processing", "Sequence Modelling", "Recommendation Engine"],
-	"learning": ["Graph Neural Networks", "Reinforcement Learning"],
-	"likes": ["Cooking", "Painting", "Badminton", "Anything dumb and useless"]
-}
+"name": "Kumar Nityan Suman",
+"education": "Bachelor's in Information Science and Engineering",
+"work": {
+	"position": "Senior Data Scientist",
+	"responsibility": "Leading efforts for recommendation & personalization in Indian languages.",
+	"company": "Dainik Bhaskar Digital"
+},
+"expertise": ["Natural Language Processing", "Sequence Modelling", "Recommendation Engine", "Time Series"],
+"learning": ["Graph Neural Networks", "Reinforcement Learning"],
+"likes": ["Cooking", "Painting", "Badminton", "Anything dumb and useless"]
 ```
 
 <p float="center">
