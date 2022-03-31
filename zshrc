@@ -128,9 +128,13 @@ alias commit="git commit -m"
 alias nvidia_smi="nvidia-smi -l 1"
 
 # Docker aliases
-alias build_gpu_server="docker build --no-cache -t gpu-server -f Dockerfile --rm --build-arg BUILD=gpu ."
+#
+# Build docker image from `docker` dir
+alias build_tf2_image="docker build --no-cache -t tf2-image -f Dockerfile --rm --build-arg BUILD=tf2 ."
 
-alias start_gpu_server="docker run --gpus all -it -d -p 8888:8888 -v ~/laboratory/:/laboratory/ -v /mnt/hd2/database/:/database/ gpu-server:latest"
+alias test_tf2_image="docker run --gpus all -it --rm tf2-image:latest python -c 'import tensorflow as tf; print(tf.__version__)'"
+
+alias build_tf2_dev="docker run --gpus all -it -d --name tf2-dev -p 8888:8888 -v ~/laboratory/:/laboratory/ -v /mnt/hd2/database/:/database/ -v /mnt/hd2/modelbase/:/modelbase/ tf2-image:latest"
 
 # Change ownership of file(s) from root to current user
 alias chown_file="sudo chown nityan:nityan"
