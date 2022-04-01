@@ -22,7 +22,7 @@
 	"responsibility": "Leading efforts for recommendation & personalization in Indian languages.",
 	"company": "Dainik Bhaskar Digital"
 },
-"expertise": ["Natural Language Processing", "Sequence Modelling", "Recommendation Engine", "Time Series"],
+"expertise": ["Natural Language Processing", "Time Series", "Recommendation Engine"],
 "learning": ["Graph Neural Networks", "Reinforcement Learning"],
 "likes": ["Cooking", "Painting", "Badminton", "Anything dumb and useless"]
 ```
