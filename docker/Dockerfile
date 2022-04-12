@@ -10,7 +10,7 @@ FROM tensorflow/tensorflow:2.7.0-gpu AS tf2-server
 RUN apt-get -y update
 RUN apt-get -y install git
 RUN pip install --upgrade pip
-RUN pip install --upgrade setuptools
+RUN pip install --upgrade setuptools wheel
 RUN apt -y install graphviz
 RUN apt-get update \
 	&& apt-get -y install libpq-dev gcc \
@@ -36,7 +36,10 @@ RUN pip install \
 	notebook>=6.4.5 \
 	pyarrow==7.0.0 \
 	boto3==1.21.20 \
-	yfinance==0.1.70
+	yfinance==0.1.70 \
+	spacy==3.2.0
+
+RUN python -m spacy download en_core_web_trf
 
 ####################################################################################################
 # Select Build
