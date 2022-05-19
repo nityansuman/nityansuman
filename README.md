@@ -32,7 +32,7 @@
 	<img src="https://github-readme-stats-git-master.akanz1.vercel.app/api/top-langs/?username=nityansuman&layout=compact&hide_border=true&title_color=142d70" width="350"/>
 </p>
 
-## Getting Started with Data Science
+## Learning Resource Recommendations
 
 - [1. Introduction to Python](https://www.w3schools.com/PYTHON/)
 - [2. Practise Python on Hackerrank](https://www.hackerrank.com/domains/python?badge_type=python)
