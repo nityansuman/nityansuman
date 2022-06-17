@@ -1,5 +1,3 @@
-<h1>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-
 ![nityan](media/github-header.svg)
 
 <p align="center">
