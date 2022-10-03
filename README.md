@@ -14,7 +14,7 @@
 "education": "Bachelor's in Information Science and Engineering",
 "work": {
 	"position": "Senior Data Scientist",
-	"responsibility": "Leading the efforts for data driven personalization at Dainik Bhaskar to revolutionize the Indian news industry.",
+	"responsibility": "Leading the efforts for personalization at Dainik Bhaskar to revolutionize the Indian news industry.",
 	"company": "Dainik Bhaskar Digital"
 },
 "expertise": ["Natural Language Processing & Understanding", "Recommendation Engine", "Sequence Modelling"],
