@@ -7,9 +7,6 @@
 	<a href="https://twitter.com/nityansuman">
 		<img alt="kumar nityan suman's Twitter" src="media/twitter.png" />
 	</a>
-	<a href="https://www.instagram.com/drawingado">
-		<img alt="kumar nityan suman's Instagram" src="media/instagram.png" />
-	</a>
 </p>
 
 ```json
@@ -17,12 +14,12 @@
 "education": "Bachelor's in Information Science and Engineering",
 "work": {
 	"position": "Senior Data Scientist",
-	"responsibility": "Leading efforts for recommendation & personalization in Indian languages.",
+	"responsibility": "Leading the efforts for data driven personalization at Dainik Bhaskar to revolutionize the Indian news industry.",
 	"company": "Dainik Bhaskar Digital"
 },
-"expertise": ["Natural Language Processing & Understanding", "Time Series", "Recommendation Engine"],
-"learning": ["Graph Neural Networks", "Reinforcement Learning"],
-"likes": ["Cooking", "Painting", "Badminton", "Anything dumb and useless"]
+"expertise": ["Natural Language Processing & Understanding", "Recommendation Engine", "Sequence Modelling"],
+"learning": ["Graph Neural Networks"],
+"likes": ["Cooking", "Painting", "Badminton", "Anything fun and food"]
 ```
 
 <p float="center">
