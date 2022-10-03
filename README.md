@@ -12,11 +12,8 @@
 ```json
 "name": "Kumar Nityan Suman",
 "education": "Bachelor's in Information Science and Engineering",
-"work": {
-	"position": "Senior Data Scientist",
-	"responsibility": "Leading the efforts for personalization at Dainik Bhaskar to revolutionize the Indian news industry.",
-	"company": "Dainik Bhaskar Digital"
-},
+"position": "Senior Data Scientist",
+"responsibility": "Leading the efforts for personalization to revolutionize the Hindi news industry.",
 "expertise": ["Natural Language Processing & Understanding", "Recommendation Engine", "Sequence Modelling"],
 "learning": ["Graph Neural Networks"],
 "likes": ["Cooking", "Painting", "Badminton", "Anything fun and food"]
