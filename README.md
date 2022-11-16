@@ -10,7 +10,7 @@
 </p>
 
 ```json
-"name": "Kumar Nityan Suman",
+"name": "Nityan Suman",
 "education": "Bachelor's in Information Science and Engineering",
 "position": "Senior Data Scientist",
 "responsibility": "Leading the efforts for personalization to revolutionize the Hindi news industry.",
