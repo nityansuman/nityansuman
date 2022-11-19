@@ -1,11 +1,10 @@
 # syntax=docker/dockerfile:1
-
 ARG BUILD
 
 ####################################################################################################
-# GPU Build: TensorFlow-2.7.0-GPU
+# GPU Build: TensorFlow-2.8.3-GPU
 ####################################################################################################
-FROM tensorflow/tensorflow:2.7.0-gpu AS tf2-server
+FROM tensorflow/tensorflow:2.8.3-gpu AS tf2-server
 
 RUN apt-get -y update
 RUN apt-get -y install git
@@ -24,9 +23,9 @@ RUN pip install \
 	numba>=0.53.0 \
 	seaborn>=0.11.0 \
 	matplotlib>=3.4.0 \
-	tensorflow-text==2.7.3 \
-	tensorflow-io==0.23.1 \
-	tensorflow-recommenders==0.6.0 \
+	tensorflow-text>=2.7.3 \
+	tensorflow-io>=0.23.1 \
+	tensorflow-recommenders>=0.6.0 \
 	tensorflow-hub>=0.12.0 \
 	tensorflow-datasets>=4.4.0 \
 	tf-models-official>=2.7.0 \
@@ -45,4 +44,3 @@ RUN python -m spacy download en_core_web_trf
 # Select Build
 ####################################################################################################
 FROM ${BUILD}-server AS selected-build-0
-
