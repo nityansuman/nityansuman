@@ -1,14 +1,5 @@
 ![nityan](media/github-header.svg)
 
-<p align="center">
-	<a href="https://www.linkedin.com/in/kumar-nityan-suman">
-		<img alt="kumar nityan suman's LinkdeIN" src="media/linkedin.png" />
-	</a>
-	<a href="https://twitter.com/nityansuman">
-		<img alt="kumar nityan suman's Twitter" src="media/twitter.png" />
-	</a>
-</p>
-
 ```json
 "name": "Nityan Suman",
 "education": "Bachelor's in Information Science and Engineering",
