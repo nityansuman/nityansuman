@@ -17,7 +17,7 @@ RUN apt-get update \
 
 RUN pip install \
 	scikit-learn>=1.0.0 \
-	pandas>=1.3.0 \
+	pandas>=1.5.1 \
 	numpy>=1.20.3 \
 	catboost>=0.26 \
 	numba>=0.53.0 \
