@@ -2,9 +2,9 @@
 ARG BUILD
 
 ####################################################################################################
-# GPU Build: TensorFlow-2.8.3-GPU
+# GPU Build: TensorFlow-GPU
 ####################################################################################################
-FROM tensorflow/tensorflow:2.8.3-gpu AS tf2-server
+FROM tensorflow/tensorflow:2.12.0-gpu AS tf2-server
 
 RUN apt-get -y update
 RUN apt-get -y install git
@@ -33,12 +33,14 @@ RUN pip install \
 	pydot>=1.4.2 \
 	ipywidgets>=7.6.5 \
 	notebook>=6.4.5 \
-	pyarrow==7.0.0 \
-	boto3==1.21.20 \
-	yfinance==0.1.70 \
-	spacy==3.2.0
+	pyarrow>=7.0.0 \
+	boto3>=1.21.20 \
+	yfinance>=0.1.70 \
+	spacy>=3.2.0 \
+	streamlit>=1.20.0
 
 RUN python -m spacy download en_core_web_trf
+RUN python -m spacy download en_core_web_lg
 
 ####################################################################################################
 # Select Build
