@@ -1,25 +1,3 @@
-# >>> conda initialize >>>
-# !! Contents within this block are managed by 'conda init' !!
-__conda_setup="$('/home/nityan/miniconda3/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"
-if [ $? -eq 0 ]; then
-    eval "$__conda_setup"
-else
-    if [ -f "/home/nityan/miniconda3/etc/profile.d/conda.sh" ]; then
-        . "/home/nityan/miniconda3/etc/profile.d/conda.sh"
-    else
-        export PATH="/home/nityan/miniconda3/bin:$PATH"
-    fi
-fi
-unset __conda_setup
-# <<< conda initialize <<<
-
-# Export CUDA paths
-export PATH="$PATH:/usr/local/cuda-10.1/bin"
-export LD_LIBRARY_PATH=/usr/local/cuda/lib64:/usr/local/cuda-10.1/lib64:/usr/local/cuda/extras/CUPTI/lib64:$LD_LIBRARY_PATH
-
-export PATH="$PATH:/usr/local/cuda-10.2/bin"
-export LD_LIBRARY_PATH=/usr/local/cuda/lib64:/usr/local/cuda-10.2/lib64:/usr/local/cuda/extras/CUPTI/lib64:$LD_LIBRARY_PATH
-
 # Path to your oh-my-zsh installation
 export ZSH="/home/nityan/.oh-my-zsh"
 
@@ -117,26 +95,28 @@ bindkey '^ ' autosuggest-accept
 # users are encouraged to define aliases within the ZSH_CUSTOM folder.
 # For a full list of active aliases, run `alias`.
 
-# Git aliases
-alias add="git add"
-alias status="git status"
-alias push="git push origin"
-alias pull="git pull origin"
-alias commit="git commit -m"
-
-# Nvidia aliases
-alias nvidia_smi="nvidia-smi -l 1"
-
-# Docker aliases
-#
-# Build docker image from `docker` dir
-alias build_tf2_image="docker build --no-cache -t tf2-image -f Dockerfile --rm --build-arg BUILD=tf2 ."
-
-alias test_tf2_image="docker run --gpus all -it --rm tf2-image:latest python -c 'import tensorflow as tf; print(tf.__version__)'"
-
-alias build_tf2_dev="docker run --gpus all -it -d --name tf2-dev -p 8888:8888 -v ~/laboratory/:/laboratory/ -v /mnt/hd2/database/:/database/ -v /mnt/hd2/modelbase/:/modelbase/ tf2-image:latest"
-
-# Change ownership of file(s) from root to current user
-alias chown_file="sudo chown nityan:nityan"
-
 ###################################################################################################
+# >>> conda initialize >>>
+# !! Contents within this block are managed by 'conda init' !!
+__conda_setup="$('/home/nityan/anaconda3/bin/conda' 'shell.zsh' 'hook' 2> /dev/null)"
+if [ $? -eq 0 ]; then
+    eval "$__conda_setup"
+else
+    if [ -f "/home/nityan/anaconda3/etc/profile.d/conda.sh" ]; then
+        . "/home/nityan/anaconda3/etc/profile.d/conda.sh"
+    else
+        export PATH="/home/nityan/anaconda3/bin:$PATH"
+    fi
+fi
+unset __conda_setup
+# <<< conda initialize <<<
+
+export PATH="$PATH:/usr/local/cuda-10.1/bin"
+export LD_LIBRARY_PATH=/usr/local/cuda/lib64:/usr/local/cuda-10.1/lib64:/usr/local/cuda/extras/CUPTI/lib64:$LD_LIBRARY_PATH
+
+export PATH="$PATH:/usr/local/cuda-10.2/bin"
+export LD_LIBRARY_PATH=/usr/local/cuda/lib64:/usr/local/cuda-10.2/lib64:/usr/local/cuda/extras/CUPTI/lib64:$LD_LIBRARY_PATH
+
+# Alias
+alias nvidia_smi="nvidia-smi -l 1"
+alias chown_file="sudo chown nityan:nityan"
