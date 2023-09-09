@@ -2,9 +2,9 @@
 ARG BUILD
 
 ####################################################################################################
-# GPU Build: TensorFlow-GPU
+# Development Environment with GPU Support
 ####################################################################################################
-FROM tensorflow/tensorflow:2.12.0-gpu AS tf2-server
+FROM tensorflow/tensorflow:latest-gpu AS dev-env
 
 RUN apt-get -y update
 RUN apt-get -y install git
@@ -16,33 +16,41 @@ RUN apt-get update \
 	&& pip install psycopg2
 
 RUN pip install \
-	scikit-learn>=1.0.0 \
-	pandas>=1.5.1 \
-	numpy>=1.20.3 \
-	catboost>=0.26 \
-	numba>=0.53.0 \
-	seaborn>=0.11.0 \
-	matplotlib>=3.4.0 \
-	tensorflow-text>=2.7.3 \
-	tensorflow-io>=0.23.1 \
-	tensorflow-recommenders>=0.6.0 \
-	tensorflow-hub>=0.12.0 \
-	tensorflow-datasets>=4.4.0 \
-	tf-models-official>=2.7.0 \
-	scann>=1.2.4 \
-	pydot>=1.4.2 \
-	ipywidgets>=7.6.5 \
-	notebook>=6.4.5 \
-	pyarrow>=7.0.0 \
-	boto3>=1.21.20 \
-	yfinance>=0.1.70 \
-	spacy>=3.2.0 \
-	streamlit>=1.20.0
-
-RUN python -m spacy download en_core_web_trf
-RUN python -m spacy download en_core_web_lg
+	scikit-learn\
+	pandas\
+	numpy \
+	catboost \
+	numba \
+	seaborn \
+	matplotlib \
+	fastapi \
+	flask \
+	flask-cors \
+	flask-login \
+	flask-socketio \
+	flask-wtf \
+	requests \
+	requests-ftp \
+	chromadb \
+	redis \
+	wordcloud \
+	tensorflow-text \
+	tensorflow-io \
+	tensorflow-recommenders \
+	tensorflow-hub \
+	tensorflow-datasets \
+	tf-models-official \
+	psycopg2 \
+	boto3 \
+	pydot \
+	ipywidgets \
+	notebook \
+	pyarrow \
+	transformers \
+	sentence-transformers \
+	tqdm
 
 ####################################################################################################
 # Select Build
 ####################################################################################################
-FROM ${BUILD}-server AS selected-build-0
+FROM ${BUILD}-env AS selected-build-0
