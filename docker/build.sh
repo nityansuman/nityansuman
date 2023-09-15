@@ -12,3 +12,4 @@
 # docker network create docker-network
 # docker network connect docker-network mongo-env
 # docker network connect docker-network dev-env
+# docker network inspect myNetwork
