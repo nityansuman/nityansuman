@@ -120,3 +120,14 @@ export LD_LIBRARY_PATH=/usr/local/cuda/lib64:/usr/local/cuda-10.2/lib64:/usr/loc
 # Alias
 alias nvidia_smi="nvidia-smi -l 1"
 alias chown_file="sudo chown nityan:nityan"
+alias labx="cd /mnt/sda3/LabX/"
+
+# docker ps -a: list containers
+# docker images: list images
+# docker rm container_id: remove container
+# docker stop container_id: stop container
+# docker rmi: remove image
+# docker run
+# -d: deamon mode
+# -v: mount data
+
