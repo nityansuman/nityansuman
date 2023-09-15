@@ -48,7 +48,8 @@ RUN pip install \
 	pyarrow \
 	transformers \
 	sentence-transformers \
-	tqdm
+	tqdm \
+	pymongo
 
 ####################################################################################################
 # Select Build
