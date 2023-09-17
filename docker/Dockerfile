@@ -49,7 +49,9 @@ RUN pip install \
 	transformers \
 	sentence-transformers \
 	tqdm \
-	pymongo
+	pymongo \
+	streamlit \
+	pdfminer
 
 ####################################################################################################
 # Select Build
