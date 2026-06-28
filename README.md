@@ -1,5 +1,3 @@
-![nityan](media/github-header.svg)
-
 <!-- json
 "name": "Nityan Suman",
 "education": "Bachelor's in Information Science and Engineering",
