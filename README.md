@@ -1,9 +1,8 @@
 <!-- json
 "name": "Nityan Suman",
 "education": "Bachelor's in Information Science and Engineering",
-"position": "Senior Data Scientist",
+"position": "Lead Data Scientist",
 "expertise": ["NLP & Generative AI", "Recommendation Engine", "Sequence Modelling"],
-"learning": ["Graph Neural Networks"],
 "likes": ["Cooking", "Painting", "Anything fun and food"]
 -->
 
